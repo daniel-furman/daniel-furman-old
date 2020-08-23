@@ -3,7 +3,7 @@
 ---
 
 ## Ensemble Climate Projections
-<img src="images/xantusia.png?raw=true"/>
+<img src="images/climate.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing) <br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
