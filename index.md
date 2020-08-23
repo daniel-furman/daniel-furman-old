@@ -6,7 +6,7 @@
 ### Programming Projects
 
 [Ensemble Climate Projections](https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing)
-<img src="images/sdm.png?raw=true"/>
+<img src="images/sdm.png?raw=true"/ width="500" height="600">
 <br><br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
