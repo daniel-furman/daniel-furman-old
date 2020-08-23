@@ -3,8 +3,6 @@
 ##### I am curious about the application of ML on a diverse range of scientific, social, and economic data. 
 ---
 
-### Programming Projects
-
 #### Ensemble Climate Projections
 <img src="images/sdm.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing)
@@ -20,11 +18,11 @@
 #### Morphologic Galaxy Classification
 ---
 
-### Reading
+# Reading
 
 ---
 
-### Spare Time
+# Spare Time
 
 ---
 
