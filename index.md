@@ -30,7 +30,3 @@ I also frequent [distill.pub](https://distill.pub/) for the cutting edge in d
 
 
 
-
-
-
-
