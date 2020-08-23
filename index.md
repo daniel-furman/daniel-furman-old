@@ -18,7 +18,6 @@
 
 ---
 [Morphologic Galaxy Classification]()
-
 ---
 
 ### Reading
