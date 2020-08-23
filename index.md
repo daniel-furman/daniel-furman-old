@@ -10,7 +10,7 @@
 
 ---
 [Material Science of Ice Densification](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ice-dens.png?raw=true"/>
 
 ---
 [Morphologic Galaxy Classification]()
