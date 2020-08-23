@@ -33,4 +33,3 @@ During my semester abroad I joined the James Cook dive club, achieving Padi Resc
 </center>
 
 
-
