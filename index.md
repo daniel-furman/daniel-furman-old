@@ -2,12 +2,11 @@
 ---
 #### My work reflects a curiosity in a diverse range of scientific, socio-political, and economic data.
 <br><br>
----
 
-## Programming Projects
+### Programming Projects
 
 [Ensemble Climate Projections](https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sdm.png?raw=true"/>
 <br><br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
@@ -22,11 +21,11 @@
 
 ---
 
-## Reading
+### Reading
 
 ---
 
-## Spare Time
+### Spare Time
 
 ---
 
