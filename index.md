@@ -16,7 +16,7 @@
 
 # Spare Time
 ---
-[Activities](activities.md)<br><br>
+[Activities](activities.md)<br>
 [Reading](reading.md)
 
 
