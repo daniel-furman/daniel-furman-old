@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Programming Projects
 
-[Project 1 Title](/sample_page)
+[Ensemble Climate Projections](/https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GitHub Repository](/https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
+
+---
+[Material Science of Ice Densification](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Morphologic Galaxy Classification]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
