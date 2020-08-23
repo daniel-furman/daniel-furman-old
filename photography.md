@@ -1,4 +1,4 @@
-## Photography Page
+## Selection of Photography
 ---
 
 ### 1. Film Photography (UPenn FNAR 271)
