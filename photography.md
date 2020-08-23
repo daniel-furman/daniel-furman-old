@@ -13,7 +13,7 @@ Images taken for Introduction to Photography (UPenn FNAR 271) developed in a dar
 
 Surfing has been a passion of mine since middle school, and I am forever grateful to share time in the ocean with my friends.
 
-<img src="images/surfing_friends.png?raw=true"/>
+<img src="images/surfing_friends.png" class="center">
 
 ### 3. Climbing
 ---
@@ -26,7 +26,7 @@ I was introduced to climbing during college and am drawn to the creative problem
 ---
 
 During my semester abroad I joined the James Cook dive club, achieving Padi Rescue, AQF CPR, First Aid, and O2 certifications.
-<img src="images/scuba_diving.png?raw=true"/>
+<img src="images/scuba_diving.png" class="center">
 
 
 
