@@ -1,11 +1,12 @@
 title: Daniel Furman # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  My name is Daniel, and I am a recent graduate of the University of Pennsylvania with a budding interest in Data Science. I am curious about the applications of ML and deep learning on the scientific, socio-political, and economic datasets flowing through our technological world.
+  My name is Daniel, and I am a recent graduate of the University of Pennsylvania with a budding interest in Data Science. 
   <br><br>
-  Second description 
+  I am curious about the applications of ML and deep learning on the scientific, socio-political, and economic datasets flowing through our technological world.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/daniel-furman-702b02160/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/daniel-furman">View My GitHub Profile</a> 
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
