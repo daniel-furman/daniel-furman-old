@@ -1,6 +1,3 @@
-## Selection of Photography
----
-
 ### 1. Film Photography
 ---
 
