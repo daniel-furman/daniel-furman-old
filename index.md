@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 ---
 ##### I am curious about the application of ML on a diverse range of scientific, social, and economic data. 
 ---
