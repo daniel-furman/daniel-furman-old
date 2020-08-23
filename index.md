@@ -1,5 +1,6 @@
 # Portfolio
-My work reflects a curiosity in a diverse range of scientific, socio-political, and economic data.
+---
+#### My work reflects a curiosity in a diverse range of scientific, socio-political, and economic data.
 ---
 
 ### Programming Projects
