@@ -12,9 +12,8 @@
 <img src="images/ice.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing) <br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ice-densification)
-
----
-## Spare Time
+<br>
+# Spare Time
 ---
 [Activities](activities.md)<br><br>
 [Reading](reading.md)
