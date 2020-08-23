@@ -1,6 +1,6 @@
 # Portfolio
 ---
-#### My work reflects a curiosity in a diverse range of scientific, socio-political, and economic data.
+#### I am curious about the application of ML on a diverse range of scientific, socio-political, and economic data.
 ---
 
 ### Programming Projects
