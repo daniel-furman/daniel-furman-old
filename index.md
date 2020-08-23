@@ -27,7 +27,6 @@ A selection of recently read favorites include [Everybody Lies](https://www.goo
 I also frequent [distill.pub](https://distill.pub/) for the cutting edge in deep learning and ML research, as well as [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for Grant Sanderson's insightful mathematics.
 
 ## Spare Time
-
 ---
 
 
