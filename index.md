@@ -9,7 +9,7 @@
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
 ---
-### Material Science of Ice Densification
+### [Material Science of Ice Densification](ice-dense_page.md)
 <img src="images/ice-dens.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing) <break><break>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ice-densification)
