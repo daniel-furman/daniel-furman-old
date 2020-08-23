@@ -9,15 +9,12 @@
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
 ---
-### [Material Science of Ice Densification](ice-dense_page.md)
+### Material Science of Ice Densification
 <img src="images/ice-dens.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing) <br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ice-densification)
 
 ---
-### Morphologic Galaxy Classification
----
-
 ## Reading
 ---
 I'm currently reading [What is Math?](https://books.google.com/books/about/What_Is_Math.html?id=p5zFsgEACAAJ) by Field Cady, [Intelligence Emerging](https://www.google.com/books/edition/Intelligence_Emerging/k5jBCQAAQBAJ?hl=en&gbpv=0) by Keith Downing, [Man's Search for Meaning](https://books.google.com/books/about/Man_s_Search_for_Meaning.html?id=K2AvZmco3E0C) by Viktor E. Frankl, and [Spillover](https://www.google.com/books/edition/Spillover_Animal_Infections_and_the_Next/ezeIZReBMt4C?hl=en&gbpv=0) by David Quammen. <break><break>
@@ -28,7 +25,7 @@ I also frequent [distill.pub](https://distill.pub/) for the cutting edge in d
 
 ## Spare Time
 ---
-[Photography Journal](photography.md)
+[Photography](photography.md)
 
 
 
