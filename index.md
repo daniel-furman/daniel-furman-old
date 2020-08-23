@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ##### I am curious about the applications of machine learning on a diverse range of scientific, social, and economic data. 
-<br><br>
+<br>
 ### <ins>Ensemble Climate Projections</ins>
 <img src="images/climate.png?raw=true"/>
 [Further Reading](https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing) <br>
