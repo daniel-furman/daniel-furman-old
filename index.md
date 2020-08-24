@@ -17,7 +17,7 @@
 ---
 <img src="images/ice.png?raw=true"/>
 
-*	Developed and led a three-year research project, awarded 2020 Rose Undergraduate Research Award
+*	Developed and led a three-year experimental project, awarded 2020 Rose Undergraduate Research Award
 *	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
