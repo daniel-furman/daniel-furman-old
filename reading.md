@@ -1,9 +1,13 @@
 # Reading
 ---
 
-I'm currently reading [What is Math?](https://books.google.com/books/about/What_Is_Math.html?id=p5zFsgEACAAJ) by Field Cady, [Intelligence Emerging](https://www.google.com/books/edition/Intelligence_Emerging/k5jBCQAAQBAJ?hl=en&gbpv=0) by Keith Downing, [Man's Search for Meaning](https://books.google.com/books/about/Man_s_Search_for_Meaning.html?id=K2AvZmco3E0C) by Viktor E. Frankl, and [Spillover](https://www.google.com/books/edition/Spillover_Animal_Infections_and_the_Next/ezeIZReBMt4C?hl=en&gbpv=0) by David Quammen. <break><break>
+I'm currently reading <a target="_blank" rel="noopener noreferrer" href="https://books.google.com/books/about/What_Is_Math.html?id=p5zFsgEACAA">What is Math?</a> by Field Cady, <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/Intelligence_Emerging/k5jBCQAAQBAJ?hl=en&gbpv=0">Intelligence Emerging</a> by Keith Downing, <a target="_blank" rel="noopener noreferrer" href="https://books.google.com/books/about/Man_s_Search_for_Meaning.html?id=K2AvZmco3E0C">Man's Search for Meaning</a>
+by Viktor E. Frankl, and <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/Spillover_Animal_Infections_and_the_Next/ezeIZReBMt4C?hl=en&gbpv=0">Spillover</a> by David Quammen. <break><break>
 
-A selection of recently read favorites include [Everybody Lies](https://www.google.com/books/edition/Everybody_Lies/hy5bCwAAQBAJ?hl=en&gbpv=0) by Seth Stephens-Davidowitz, [The Overstory](https://www.google.com/books/edition/The_Overstory_A_Novel/_zQsDwAAQBAJ?hl=en&gbpv=0) by Richard Powers, and [The Order of Time](https://www.google.com/books/edition/The_Order_of_Time/POi9DwAAQBAJ?hl=en&gbpv=0) by Carlo Revelli.<break><break>
+A selection of recently read favorites include <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/Everybody_Lies/hy5bCwAAQBAJ?hl=en&gbpv=0">Everybody Lies</a> by Seth Stephens-Davidowitz, <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/The_Overstory_A_Novel/_zQsDwAAQBAJ?hl=en&gbpv=0">The Overstory</a> by Richard Powers, and <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/The_Order_of_Time/POi9DwAAQBAJ?hl=en&gbpv=0">The Order of Time</a> by Carlo Revelli.<break><break>
 
-I also frequent [distill.pub](https://distill.pub/) for the cutting edge in deep learning and ML research, as well as [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for Grant Sanderson's insightful mathematics.
+I also frequent <a target="_blank" rel="noopener noreferrer" href="https://distill.pub/">distill.pub</a> for the cutting edge in deep learning and ML research, as well as <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a> for Grant Sanderson's insightful mathematics.
+
+
+
 
