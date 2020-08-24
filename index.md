@@ -10,8 +10,8 @@
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Link</a> <br>
-[GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a> <br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">GitHub Repository</a> <br>
 
 ### Material Science of Ice Densification
 ---
@@ -21,9 +21,8 @@
 *	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
-
-[Further Reading](https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing) <br>
-[GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ice-densification)
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a> <br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">GitHub Repository</a> <br>
 
 <br><br>
 
