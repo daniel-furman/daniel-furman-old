@@ -5,6 +5,7 @@
 ### Ensemble Climate Projections
 ---
 <img src="images/climate.png?raw=true"/>
+
 * Optimized and compared geospatial machine learning models, directed programming within a five-person team 
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
