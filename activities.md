@@ -8,7 +8,7 @@ Images taken for Introduction to Photography (UPenn FNAR 271) developed in a dar
 ### 2. Surfing
 ---
 
-Surfing has been a passion of mine since middle school, and I am forever grateful to share time in the ocean with my friends.
+Surfing has been a passion of mine since middle school, and I am grateful for the time I share with my friends in the ocean. 
 
 <center>
 <img src="images/surfing_.png" class="center">
