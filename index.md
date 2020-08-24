@@ -10,7 +10,7 @@
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
-[Further Reading](<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Link</a>) <br>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Link</a> <br>
 [GitHub Repository](https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections)
 
 ### Material Science of Ice Densification
