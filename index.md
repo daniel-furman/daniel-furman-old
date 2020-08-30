@@ -1,3 +1,11 @@
+
+# Spare Time
+---
+[Activities](activities.md)<br>
+[Reading](reading.md)
+<br><br>
+
+
 # Portfolio
 ---
 ##### I am curious about the applications of machine learning across a diverse range of scientific, social, and economic data.<br><br>
@@ -31,12 +39,7 @@
 <img src="images/multi.png?raw=true"/>
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
 
-<br><br>
 
-# Spare Time
----
-[Activities](activities.md)<br>
-[Reading](reading.md)
 
 
 
