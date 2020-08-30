@@ -1,7 +1,7 @@
 
 # Spare Time
 ---
-#####  I love being active outdoors and reading a good book, enjoying many different genres. 
+#####  I love being active in the great outdoors, as well as reading a good book. 
 [Activities](activities.md)<br>
 [Reading](reading.md)
 ---
