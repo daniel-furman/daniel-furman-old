@@ -17,7 +17,7 @@
 
 ### Ensemble Climate Projections
 ---
-* Directed programming within a five-person team constructing ML models (NSF Award #1757952)
+* Directed programming within a five-person team (NSF Award #1757952), contrasted performance of ML models 
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
