@@ -9,17 +9,11 @@
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
 <p align="center"> <ins> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Comparing Classifiers: ROC Curve</a> </p></ins> <br>
-
 <img src="images/auc.png?raw=true"/>
-
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Future Habitat Overlap</a> </p></ins><br>
-
 <img src="images/ensemble.png?raw=true"/>
-
-<p align="center"> <ins> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a> </p></ins><br>
-
+<p align="center"> <ins> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></p></ins><br>
 <img src="images/pca.png?raw=true"/>
-
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
 
 
@@ -30,19 +24,12 @@
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Experimental Rates Confidence Intervals</a> </p></ins><br>
-
 <img src="images/exp-interv.png?raw=true"/>
-
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Densification Mechanism Map</a></p> </ins><br>
-
 <img src="images/map.png?raw=true"/>
-
 <p align="center"> <ins> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Multiple Week Compaction Output</a></p> </ins> <br>
-
 <img src="images/multi.png?raw=true"/>
-
 <ins> <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
-
 
 <br><br>
 
