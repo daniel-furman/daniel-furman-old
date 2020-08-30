@@ -1,5 +1,8 @@
+# Portfolio 
+---
 
-# Free Time
+
+## Free Time
 ---
 
 #####  I love being active in the great outdoors, times which are only improved by having a thought-provoking book on my side. 
@@ -10,7 +13,7 @@
 <br>
 
 
-# Portfolio
+## Research Projects
 ---
 ##### I am curious about the applications of machine learning across a diverse range of scientific, social, and economic data.<br><br>
 
