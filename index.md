@@ -1,9 +1,10 @@
 # Portfolio 
 ---
-
+<br>
+---
 
 ## Free Time
----
+
 
 #####  I love being active in the great outdoors, times which are only improved by having a thought-provoking book on my side. 
 [Activities](activities.md)<br>
@@ -12,9 +13,9 @@
 ---
 <br>
 
-
-## Research Projects
 ---
+## Research Projects
+
 ##### I am curious about the applications of machine learning across a diverse range of scientific, social, and economic data.<br><br>
 
 ### Ensemble Climate Projections
