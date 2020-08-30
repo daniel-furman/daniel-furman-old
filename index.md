@@ -10,12 +10,12 @@
 
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Comparing Classifiers: ROC Curve</a> </p> <br>
 <img src="images/auc.png?raw=true"/>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Future Habitat Overlap</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Future Habitat Overlap</a> </p><br>
 <img src="images/ensemble.png?raw=true"/>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a> </p><br>
 <img src="images/pca.png?raw=true"/>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a> </p><br>
 
 
 ### Material Science of Ice Densification
@@ -24,14 +24,14 @@
 *	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Experimental Rates Confidence Intervals</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Experimental Rates Confidence Intervals</a> </p><br>
 <img src="images/exp-interv.png?raw=true"/>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Densification Mechanism Map</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Densification Mechanism Map</a></p> <br>
 <img src="images/map.png?raw=true"/>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Multiple Week Compaction Output</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Multiple Week Compaction Output</a></p> <br>
 <img src="images/multi.png?raw=true"/>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a> <br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a></p> <br>
 
 
 <br><br>
