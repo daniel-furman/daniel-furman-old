@@ -8,7 +8,7 @@
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Comparing Classifiers: ROC Curve</a> <br>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Comparing Classifiers: ROC Curve</a> </p> <br>
 <img src="images/auc.png?raw=true"/>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Future Habitat Overlap</a> <br>
 <img src="images/ensemble.png?raw=true"/>
