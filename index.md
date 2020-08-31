@@ -2,9 +2,6 @@
 ---
 <br>
 
-
----
-
 ## Research Projects
 
 ##### I am curious about the applications of machine learning across a diverse range of scientific, social, and economic data.<br><br>
