@@ -41,8 +41,6 @@
 
 ## Free Time
 
-
-#####  I love being active in the great outdoors, times which are only improved by having a thought-provoking book on my side. 
 [Activities](activities.md)<br>
 [Reading](reading.md)
 
