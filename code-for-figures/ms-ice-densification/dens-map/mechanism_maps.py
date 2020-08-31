@@ -7,7 +7,7 @@ Created on Tue Aug 25 09:47:04 2020
 """
 
 # Construction of mechanism maps, per Frost and Ashby 1982, Maeno and Ebinuma
-# 1982. This script takes a long time to run, over 16 minutes, as the scipy
+# 1982. This script takes a long time to run, over 16 minutes, as the sympy
 # solver has to iterate over a lot of numbers ...
 
 import numpy as np
