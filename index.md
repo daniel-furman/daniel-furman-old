@@ -27,7 +27,7 @@
 *	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
-<p align="center"><ins><a target="_blank" rel="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/exp-confidence-intervals">Experimental Rates Confidence Intervals</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/exp-confidence-intervals">Experimental Rates Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/dens-map">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
