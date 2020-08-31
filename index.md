@@ -12,9 +12,9 @@
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
 *	Created and presented a 10-minute talk at the 2019 SCURR professional research conference
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Comparing Classifiers: ROC Curve</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Future Habitat Overlap</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/future-overlap">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/>
@@ -27,11 +27,11 @@
 *	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript exploring our discoveries, awaiting future journal publication 
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Experimental Rates Confidence Intervals</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/exp-confidence-intervals">Experimental Rates Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Densification Mechanism Map</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/dens-map">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ice-densification">Multiple Week Compaction Output</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/multi-week-test">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/>
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
 
