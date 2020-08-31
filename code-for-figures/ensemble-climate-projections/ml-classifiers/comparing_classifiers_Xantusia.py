@@ -8,7 +8,7 @@ Created on Fri Aug 14 13:30:33 2020
 
 # This file constructs classifiers for a species distribution (Xantusia
 # vigilis). The classes are binary indicating presence or absence, and
-# absences were randomly drawn from a wide extent. The data were split
+# absences were randomly drawn from a 4x extent. The data were split
 # into train/test sets in RStudio, where the extraction of BioClim
 # features (1970-2000) was executed per presence/absence location. Here,
 # we contrast the AUC, confusion  matrix, and the F statistic for 9 ML 
