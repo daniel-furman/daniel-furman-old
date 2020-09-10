@@ -10,7 +10,7 @@
 ---
 * Directed programming within a five-person team (NSF Award #1757952), contrasted performance of ML models 
 * Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
-*	Created and presented PowerPoint talks at the SCURR (2019) and SICB (2020) professional conferences
+*	Created and presented PowerPoint talks at the SCURR (2019) and SICB (2020) research conferences
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
