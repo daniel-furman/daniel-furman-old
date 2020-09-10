@@ -10,7 +10,7 @@ Created on Tue Aug 25 09:47:04 2020
 # 1982. This script takes a long time to run, over 16 minutes, as the sympy
 # solver has to iterate many times. 
 
-# require libs:
+# required libraries:
 import numpy as np
 import matplotlib.pylab as plt
 from sympy.solvers import solve
