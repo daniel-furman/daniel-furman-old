@@ -5,6 +5,13 @@ Created on Tue Aug 25 09:14:26 2020
 
 @author: danielfurman
 """
+
+# In this script we take several steady-state rate measurements from a 
+# compaction test that took place over several weeks. These rates vary 
+# from 1.05e-8 to 2.81e-8, revealing the density dependence during firn creep.
+
+# required libraries:
+
 import matplotlib.pylab as plt
 import numpy as np
 import glob
@@ -15,8 +22,8 @@ for f in filenames:
     data_list.append(np.loadtxt(fname=f, delimiter=','))
 
 fig, axes = plt.subplots(1, 1, figsize=(7,4.5)) 
-steadystate_slicee = data_list[0][(data_list[0][:,1]/(60*60)>=40)&(
-    data_list[0][:,1]/(60*60)<=420)]
+steadystate_slicee = data_list[6][(data_list[6][:,1]/(60*60)>=40)&(
+    data_list[6][:,1]/(60*60)<=420)]
 axes.plot(steadystate_slicee[:,1]/(60*60),
           steadystate_slicee[:,7], label = 'Densification Curve')
 
@@ -24,8 +31,8 @@ results = np.zeros([4,5]) #where we will store rates and densities per slice
 
 # plot many different rates:
 
-steadystate_slice = data_list[0][(data_list[0][:,1]/(60*60)>=90)&(
-    data_list[0][:,1]/(60*60)<=140)]
+steadystate_slice = data_list[6][(data_list[6][:,1]/(60*60)>=90)&(
+    data_list[6][:,1]/(60*60)<=140)]
 axes.plot(steadystate_slice [:,1]/(60*60), steadystate_slice [:,7])
 
 x = int(len(steadystate_slice[:,1])/10)
@@ -57,8 +64,8 @@ axes.plot(np.array([np.mean(time1)/(60*60),np.mean(time2)/(60*60)]),np.array(
     [np.mean(dense1),np.mean(dense2)]),'k', label = 'Steady-state slice')
 
 
-steadystate_slice = data_list[0][(data_list[0][:,1]/(60*60)>=190)&(
-    data_list[0][:,1]/(60*60)<=230)]
+steadystate_slice = data_list[6][(data_list[6][:,1]/(60*60)>=190)&(
+    data_list[6][:,1]/(60*60)<=230)]
 axes.plot(steadystate_slice [:,1]/(60*60), steadystate_slice [:,7])
 
 x = int(len(steadystate_slice[:,1])/10)
@@ -90,8 +97,8 @@ results[1,0] = np.mean(densrates)
 axes.plot(np.array([np.mean(time1)/(60*60),np.mean(time2)/(60*60)]),np.array(
     [np.mean(dense1),np.mean(dense2)]),'k')
 
-steadystate_slice = data_list[0][(data_list[0][:,1]/(60*60)<=320)&(
-    data_list[0][:,1]/(60*60)>=270)]
+steadystate_slice = data_list[6][(data_list[6][:,1]/(60*60)<=320)&(
+    data_list[6][:,1]/(60*60)>=270)]
 axes.plot(steadystate_slice [:,1]/(60*60), steadystate_slice [:,7])
 
 x = int(len(steadystate_slice[:,1])/10)
@@ -125,8 +132,8 @@ axes.plot(np.array([np.mean(time1)/(60*60),np.mean(time2)/(60*60)]),
 
 
 
-steadystate_slice = data_list[0][(data_list[0][:,1]/(60*60)<=420)&(
-    data_list[0][:,1]/(60*60)>=370)]
+steadystate_slice = data_list[6][(data_list[6][:,1]/(60*60)<=420)&(
+    data_list[6][:,1]/(60*60)>=370)]
     
 axes.plot(steadystate_slice [:,1]/(60*60), steadystate_slice [:,7])
 x = int(len(steadystate_slice[:,1])/10)
@@ -164,7 +171,7 @@ plt.ylabel('Density (g/cm^3)')
 plt.xlabel('Hours')
 plt.title('Multi-Week Compaction Test', fontweight = 'bold')
 plt.grid(axis = 'y')
-#plt.savefig('images/multidens.png', dpi = 400)
+plt.savefig('images/multidens.png', dpi = 400)
 
 print('The largest measured rate:', "{:.3e}".format(np.max(results[:,0])))
 print('The smallest measured rate:', "{:.3e}".format(np.min(results[:,0])))
