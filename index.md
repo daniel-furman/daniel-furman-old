@@ -35,7 +35,7 @@
 
 
 *	Developed a three-year experimental geophysics research project, awarded 2020 Rose Undergraduate Research Award
-*	Investigated the microphysics of ice compaction within geologic settings, detailed in a senior thesis 
+*	Investigated the physics of ice compaction within geologic settings, detailed in a senior thesis 
 *	Drafted a material physics focused manuscript for the GRL journal, for publication in 2021<br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a>
