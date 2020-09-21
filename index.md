@@ -17,7 +17,7 @@
 <img src="images/pca.png?raw=true"/><br><br>
 
 * Directed programming within a five-person team (NSF Award #1757952), contrasted performance of ML models 
-* Built architecture for ETL data pipelines, processed hundreds of gigabytes of shapefile and raster data
+* Built architecture for ETL data pipelines, processed thousands of gigabytes of shapefile and raster data
 *	Created and presented PowerPoint talks at the SCURR (2019) and SICB (2020) research conferences <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a>
