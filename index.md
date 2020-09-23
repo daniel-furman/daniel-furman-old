@@ -16,9 +16,9 @@
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
-* Directed programming within a five-person team (NSF Award #1757952), contrasted performance of ML models 
-* Built architecture for ETL data pipelines, processed thousands of gigabytes of shapefile and raster data
-*	Created and presented PowerPoint talks at the SCURR (2019) and SICB (2020) research conferences <br><br>
+* Directed programming within a five-person team (NSF Award #1757952), contrasted machine learning models for geospatial analysis and ensemble future climate projection
+* Built and optimized ETL data pipelines, processed thousands of gigabytes of shapefile data
+* Presented at SCURR (2019) and SICB (2020) conferences, for publication (GEC) in 2021 <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a>
 
@@ -33,10 +33,9 @@
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/multi-week-test">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-
-*	Developed a three-year experimental geophysics research project, awarded 2020 Rose Undergraduate Research Award
-*	Investigated the physics of ice compaction within geologic settings, detailed in a senior thesis 
-*	Drafted a material physics focused manuscript for the GRL journal, for publication in 2021<br><br>
+* Developed a geophysics research project with Penn's Climate Action and Hayden Grants, awarded 2020 Rose Undergraduate Research Award
+* Investigated the physics of ice compaction with experimental and computational methods
+* Explored results in an honors senior thesis, drafted manuscript for publication (GRL) in 2021<br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a>
 
