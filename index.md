@@ -33,9 +33,9 @@
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/multi-week-test">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-* Developed a geophysics research project with Penn's Climate Action and Hayden Grants, awarded 2020 Rose Undergraduate Research Award
-* Investigated the physics of ice compaction with experimental and computational methods
-* Explored results in an honors senior thesis, drafted manuscript for publication (GRL) in 2021<br><br>
+* Developed a geophysics research project with UPenn's Climate Action and Hayden Grants, awarded 2020 Rose Undergraduate Research Award
+* Investigated the physics and material science of ice compaction with experimental and computational methods
+* Explored results in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a>
 
