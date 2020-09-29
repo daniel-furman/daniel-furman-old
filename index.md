@@ -4,7 +4,7 @@
 
 ## Research Projects
 
-##### I am curious about the applications of machine learning across a diverse range of scientific, social, and economic data.<br><br>
+##### I am passionate about the applications of data science across a diverse range of scientific, social, and economic data. I am particularly interested in how great data science is tied to asking the right questions and aim to generate insights which make the world a better place. <br><br>
 
 ### Ensemble Climate Projections
 ---
