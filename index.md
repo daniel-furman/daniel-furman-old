@@ -11,7 +11,7 @@
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/blob/master/ensemble-climate-projections/Xant_notebook.ipynb">Spatial Prediction - Current Range</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/blob/master/ensemble-climate-projections/Xant_notebook.ipynb">Geospatial Prediction: Current Range</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/future-overlap">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
