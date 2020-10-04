@@ -25,7 +25,7 @@ I am passionate about the applications of data science across a diverse range of
 *	Presented results at the SCURR (2019) and SICB (2020) conferences, drafted manuscript for publication (GEC) in 2021
 *	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Code Repository</a>
 
 
@@ -43,7 +43,7 @@ I am passionate about the applications of data science across a diverse range of
 *	Investigated the material science and physics of ice compaction with novel experimental and computational methods
 *	Explored and summarized unique findings in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a>
 
 
