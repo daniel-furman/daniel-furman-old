@@ -4,7 +4,11 @@
 
 ## Research Projects
 
-##### I am passionate about the applications of data science across a diverse range of scientific, social, and economic data. Aiming to generate insights that make the world a better place, I am particularly interested in how great data science is tied to asking the best questions. <br><br>
+I am passionate about the applications of data science across a diverse range of scientific, social, and economic data. Aiming to generate insights that make the world a better place, I am particularly interested in how great data science is tied to asking the best questions. 
+
+--
+
+<br><br>
 
 ### Ensemble Climate Projections (NSF Award #1757952)
 ---
@@ -24,16 +28,17 @@
 *	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Code Repository</a>
 
 
 ### Material Science of Ice Densification
 ---
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/exp-confidence-intervals">Experimental Rates Confidence Intervals</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/dens-map">Densification Mechanism Map</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ms-ice-densification/multi-week-test">Multiple Week Compaction Output</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
 *	Spearheaded a three-year experimental geophysics project, recognized by 2020 Rose Undergraduate Research Award
@@ -41,6 +46,8 @@
 *	Explored and summarized unique findings in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a>
+
 
 
 ---
