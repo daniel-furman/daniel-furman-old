@@ -3,7 +3,7 @@
 
 ---
 
-I am passionate about finding insights in a range of scientific, social, and economic data. Aiming to make the world a better place, I am particularly interested in how actionable data science is tied to asking the right questions.
+I am passionate about uncovering insights across a range of scientific, social, and economic data. Aiming to make the world a better place, I am particularly interested in how actionable data science is tied to asking the best questions through creative and innovative hypotheses.
 
 ---
 
