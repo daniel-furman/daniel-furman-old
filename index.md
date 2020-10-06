@@ -1,4 +1,5 @@
 # Portfolio Website
+
 ---
 <br>
 
@@ -13,6 +14,8 @@ I am passionate about uncovering insights across a range of scientific, social, 
 <br><br>
 
 ### Ensemble Climate Projections (NSF Award #1757952) <br><br>
+
+---
 
 How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What uncertanties underly climate forecasts for Southwestern North America? 
 
@@ -38,6 +41,11 @@ How can models of climate change effects on geographic distributions incorporate
 
 ### Material Science of Ice Densification
 
+---
+
+Do grain-size-sensitive mechanisms of creep operate within shallow depths of glaciers and ice sheets? In these settings, is densification influenced by ice's heterogeneous strain state and dynamic microstructure?
+
+---
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
