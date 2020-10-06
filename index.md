@@ -1,22 +1,22 @@
 # Portfolio Website
-<br>
-
 ---
+<br>
 
 I am passionate about uncovering insights across a range of scientific, social, and economic data. Aiming to make the world a better place, I am particularly interested how actionable data science is tied to asking the right questions.
 
----
+<br>
 
 ## Academic Research Projects
-
+---
 
 
 <br><br>
 
 ### Ensemble Climate Projections (NSF Award #1757952) <br><br>
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What uncertanties underly climate forecasts for Southwestern North America? <br><br>
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What uncertanties underly climate forecasts for Southwestern North America? 
 
+---<br>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
