@@ -11,7 +11,7 @@ I am passionate about uncovering insights across a range of scientific, social, 
 ---
 
 
-<br><br>
+<br>
 
 ### Ensemble Climate Projections (NSF Award #1757952) <br><br>
 
@@ -38,6 +38,7 @@ How can models of climate change effects on geographic distributions incorporate
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/tree/master/ensemble-climate-projections">Code Repository</a>
 
+<br>
 
 ### Material Science of Ice Densification
 
@@ -63,14 +64,15 @@ How does grain size, strain state, and microstructure influence the rheological 
 
 
 
+
+
+<br>
+
+## Interests and Activities
 ---
 
-## Free Time
-
-[Activities](activities.md)<br>
+[Hobbies](activities.md)<br>
 [Reading](reading.md)
-
----
 
 
 
