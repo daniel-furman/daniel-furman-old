@@ -15,7 +15,7 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty in climate forecasts for Southwestern deserts? - funded through NSF Award #1757952 -
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty in climate forecasts for Southwestern deserts? Funded through NSF Award #1757952.
 
 ---
 
@@ -42,7 +42,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 ---
 
-How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? - funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant -
+How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? Funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant.
 
 ---
 
