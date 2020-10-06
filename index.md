@@ -10,10 +10,9 @@ I am passionate about uncovering insights across a range of scientific, social, 
 ## Academic Research Projects
 ---
 
-
 <br>
 
-### Ensemble Climate Projections (NSF Award #1757952) <br><br>
+### Ensemble Climate Projections (NSF Award #1757952) 
 
 ---
 
