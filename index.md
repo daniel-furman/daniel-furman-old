@@ -6,10 +6,6 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 <br>
 
-## Academic Research Projects
----
-
-<br>
 
 ### Ensemble Climate Projections 
 
