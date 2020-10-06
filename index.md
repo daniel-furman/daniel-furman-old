@@ -17,7 +17,7 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? How can we quantify uncertainty in climate forecasts for the American Southwest?
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty in climate forecasts for Southwestern deserts?
 
 ---
 
