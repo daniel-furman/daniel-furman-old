@@ -12,11 +12,11 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 <br>
 
-### Ensemble Climate Projections (NSF Award #1757952) 
+### Ensemble Climate Projections 
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty in climate forecasts for Southwestern deserts?
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty in climate forecasts for Southwestern deserts? - Project funded through the NSF Award #1757952.
 
 ---
 
@@ -43,7 +43,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 ---
 
-How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? 
+How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? - Project funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant. 
 
 ---
 
@@ -54,8 +54,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-*	Spearheaded a three-year experimental geophysics project, recognized by 2020 Rose Undergraduate Research Award
-*	Investigated the material science and physics of ice compaction with novel experimental and computational methods
+*	Spearheaded a three-year experimental geophysics project investigating the material science and physics of ice compaction through novel experimental and computational methods
 *	Explored and summarized unique findings in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
