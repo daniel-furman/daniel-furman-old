@@ -17,7 +17,7 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What are the uncertanties contained in climate forecasts for deserts in the American Southwest?
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? How can we quantify uncertainty in climate forecasts for the American Southwest?
 
 ---
 
@@ -43,7 +43,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 ---
 
-Does grain size influence the rheological behavior of ice at shallow depths of ice sheets? What role does the heterogeneous strain state and dynamic microstructure play in these settings?
+How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? 
 
 ---
 
