@@ -9,10 +9,13 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 ## Academic Research Projects
 
+
+
 <br><br>
 
-### Ensemble Climate Projections (NSF Award #1757952)
+### Ensemble Climate Projections (NSF Award #1757952) <br><br>
 
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What uncertanties underly climate forecasts for Southwestern North America? <br><br>
 
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
