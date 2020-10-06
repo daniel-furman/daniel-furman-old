@@ -7,10 +7,13 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 ---
 
+## Academic Research Projects
+
 <br><br>
 
 ### Ensemble Climate Projections (NSF Award #1757952)
----
+
+
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
@@ -31,7 +34,7 @@ I am passionate about uncovering insights across a range of scientific, social, 
 
 
 ### Material Science of Ice Densification
----
+
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
