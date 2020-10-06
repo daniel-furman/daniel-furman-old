@@ -2,7 +2,7 @@
 
 ---
 
-I am passionate about uncovering insights across a range of scientific, social, and economic data. Aiming to make the world a better place, I am particularly interested how actionable data science is tied to asking the right questions.
+I am passionate about uncovering insights across a range of scientific, social, and economic data. Aiming to make the world a better place, I am particularly interested how actionable data science is tied to asking the right questions. Below are a selection of previous research projects. 
 
 ---
 
@@ -40,7 +40,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 ---
 
-How does grain size, strain state, and microstructure influence the rheological behavior of ice at shallow depths among glaciers and ice sheets? Funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant.
+How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets? Funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant.
 
 ---
 
