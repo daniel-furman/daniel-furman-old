@@ -2,7 +2,7 @@
 
 ---
 
-I am an aspiring data scientist passionate about scientific, socio-political, and geospatial data. Aiming to make the world a better place, I am curious how actionable and innovative data science should be tied to asking the right questions.
+I am a challenge-driven data scientist passionate about scientific, socio-political, and business data. Aiming to make the world a better place, I am curious how actionable and innovative data science should be tied to asking the right questions. 
 
 ---
 
