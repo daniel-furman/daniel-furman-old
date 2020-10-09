@@ -64,7 +64,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 
 ---
 
-I hunt surf, love many forms of art, scale boulders, and eat sustainable foods. 
+I hunt surf, love art, scale boulders, and eat sustainable foods. 
 
 ---
 
