@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of shareable research. I aim to drive large-scale, actionable analytics on open source and am curious how innovative data science is tied to asking the right questions.
+My favorite pieces of shareable research. 
 
 ---
 
