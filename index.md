@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of shareable work. I aim to drive actionable analytics on open source and am curious how innovative data science is tied to asking the right questions.
+My favorite pieces of shareable research. I aim to drive large-scale, actionable analytics on open source and am curious how innovative data science is tied to asking the right questions.
 
 ---
 
@@ -64,7 +64,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 
 ---
 
-I search for surf, create visual art, scale boulders, and love sustainable foods. 
+I search for surf, love art, scale boulders, and eat sustainable foods. 
 
 ---
 
