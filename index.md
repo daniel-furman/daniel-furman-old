@@ -58,12 +58,14 @@ How does grain size, strain state, and microstructure influence the rheological 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a>
 
 
-
-
-
 <br>
 
-## Interests and Activities
+## Interests
+
+---
+
+I search for surf, create visual art, scale boulders, and love sustainable foods. 
+
 ---
 
 [Hobbies](activities.md)<br>
