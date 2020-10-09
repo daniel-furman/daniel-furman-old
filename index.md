@@ -2,7 +2,7 @@
 
 ---
 
-A challenge-driven data scientist passionate about scientific, socio-political, and business data. I am curious how actionable and innovative data science is tied to asking the right questions. 
+I am curious how actionable and innovative data science is tied to asking the right questions. 
 
 ---
 
