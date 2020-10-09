@@ -27,7 +27,7 @@ How can models of climate change effects on geographic distributions incorporate
 <img src="images/pca.png?raw=true"/><br><br>
 
 *	Led programming within a five-person research team, quantified geospatial analysis with machine learning predictions
-*	Built and implemented ETL pipelines (runtime optimized by 600%), processed thousands of gigabytes of shapefile data
+*	Built, optimized, and implemented ETL pipelines that processed thousands of gigabytes of shapefile data
 *	Presented results at the SCURR (2019) and SICB (2020) conferences, drafted manuscript for publication (GEC) in 2021
 *	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
 
@@ -64,7 +64,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 
 ---
 
-I search for surf, love art, scale boulders, and eat sustainable foods. 
+I hunt surf, love many forms of art, scale boulders, and eat sustainable foods. 
 
 ---
 
