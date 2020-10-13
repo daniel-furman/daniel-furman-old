@@ -28,7 +28,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 *	Led programming within a five-person research team, quantified geospatial analysis with machine learning predictions
 *	Built, optimized, and implemented ETL pipelines that processed thousands of gigabytes of shapefile data
-*	Presented results at the SCURR (2019) and SICB (2020) conferences, drafted manuscript for publication (GEC) in 2021
+*	Presented results at the SCCUR (2019) and SICB (2021) conferences, drafted manuscript for publication (GEC) in 2021
 *	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
