@@ -26,7 +26,7 @@ How can models of climate change effects on geographic distributions incorporate
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
-*	Led programming within a five-person research team, quantified geospatial analysis with machine learning predictions
+*	Led programming within a five-person team, quantified geospatial analyses with pycaret machine learning predictions
 *	Built, optimized, and implemented ETL pipelines that processed thousands of gigabytes of shapefile data
 *	Presented results at the SCCUR (2019) and SICB (2021) conferences, drafted manuscript for publication (GEC) in 2021
 *	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
