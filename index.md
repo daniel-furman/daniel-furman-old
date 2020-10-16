@@ -13,7 +13,7 @@ My favorite pieces of shareable research.
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and Sarah Halvorsen. 
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>.
 
 ---
 
