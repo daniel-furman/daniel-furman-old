@@ -19,7 +19,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Comparing ML Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/sdms_2020.R">Geospatial Prediction: Current Range</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/sdms_2020.R">Xantusia Distribution: Blended Etrees and Rforest</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
