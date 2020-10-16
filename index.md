@@ -17,13 +17,13 @@ How can models of climate change effects on geographic distributions incorporate
 
 ---
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/ml-classifiers">Comparing Classifiers: ROC Curve</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Comparing ML Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/shared-projects/blob/master/ensemble-climate-projections/Xant_notebook.ipynb">Geospatial Prediction: Current Range</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/sdms_2020.R">Geospatial Prediction: Current Range</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/future-overlap">Future Habitat Overlap</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Principle Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
 *	Led programming within a five-person team, quantified geospatial analyses with machine learning (PyCaret) predictions
