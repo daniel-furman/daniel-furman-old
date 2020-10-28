@@ -54,7 +54,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 *	Spearheaded a three-year project investigating the material science and physics of ice compaction, employed novel experimental and computational methods
 *	Explored and summarized unique findings in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Further Reading</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/u/2/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a>
 
 
