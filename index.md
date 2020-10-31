@@ -28,13 +28,9 @@ How can models of climate change effects on geographic distributions incorporate
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca.R">Principal Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
-*	Led programming within a five-person team, quantified geospatial analyses with machine learning (PyCaret) predictions
-*	Built, optimized, and implemented ETL pipelines that processed thousands of gigabytes of shapefile data
-*	Presented results at the SCCUR (2019) and SICB (2021) conferences, drafted manuscript for publication (GEC) in 2021
-*	Enhanced writing, verbal communication, and collaboration skills for data science projects <br><br>
-
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
 <br>
 
@@ -55,12 +51,9 @@ How does grain size, strain state, and microstructure influence the rheological 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-*	Spearheaded a three-year project investigating the material science and physics of ice compaction, employed novel experimental and computational methods
-*	Explored and summarized unique findings in an honors senior thesis, drafted manuscript for publication (GRL) in 2021 <br><br>
-
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/u/2/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x">Further Reading</a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a>
-
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 
 <br>
 
