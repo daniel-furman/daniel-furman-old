@@ -31,7 +31,7 @@ How can models of climate change effects on geographic distributions incorporate
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
-<br>
+<br><br>
 
 ### Material Science of Ice Densification
 
@@ -55,7 +55,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
 
-<br>
+<br><br>
 
 ## Interests
 
