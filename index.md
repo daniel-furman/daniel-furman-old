@@ -48,7 +48,7 @@ How does grain size, strain state, and microstructure influence the rheological 
 
 ---
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates Confidence Intervals</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
