@@ -1,5 +1,9 @@
 # Portfolio Website
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="https://www.linkedin.com/in/daniel-furman-702b02160/" class="fa fa-linkedin"></a>
+<a href="https://github.com/daniel-furman" class="fa fa-github"></a>
+
 ---
 
 My favorite pieces of shareable research. 
