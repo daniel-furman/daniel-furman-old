@@ -15,17 +15,15 @@ My favorite pieces of shareable research.
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts?
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? See my related Python <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">tutorial</a>.
 
 ---
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Comparing ML Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/sdms_2020.R">Blended Model Distribution</a></ins></p><br>
-<img src="images/range.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca.R">Principal Component Analysis</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca.R">PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
