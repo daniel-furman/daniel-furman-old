@@ -22,7 +22,7 @@ How can models of climate change effects on geographic distributions incorporate
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Comparing ML Classifiers: ROC Curve</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/sdms_2020.R">Blended Model Distribution</a></ins></p><br>
-<img src="images/ensemble.png?raw=true"/>
+<img src="images/range.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca.R">PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
