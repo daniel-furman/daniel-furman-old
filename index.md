@@ -33,7 +33,7 @@ How can models of climate change effects on geographic distributions incorporate
 
 ### Material Science of Ice Densification
 
-*Funded through the Rose Undergraduate Research Award, CURF Climate Action Grant, and Hayden Scholars Grant, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>.*
+*Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>.*
 
 ---
 
