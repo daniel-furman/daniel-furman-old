@@ -15,7 +15,7 @@ My favorite pieces of shareable research.
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a>.
+How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.
 
 ---
 
