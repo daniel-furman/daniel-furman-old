@@ -11,11 +11,11 @@ My favorite pieces of shareable research.
 
 ### Ensemble Climate Projections 
 
-*Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>.*
+*Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Presented at SICB 2021 and SCCUR 2019 research concerences*
 
 ---
 
-How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts? Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.
+**Research Questions:** How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts?
 
 ---
 
@@ -30,14 +30,15 @@ How can models of climate change effects on geographic distributions incorporate
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
+Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.
 
 ### Material Science of Ice Densification
 
-*Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>.*
+*Funded through Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>.*
 
 ---
 
-How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
+**Research Questions:** How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
 ---
 
