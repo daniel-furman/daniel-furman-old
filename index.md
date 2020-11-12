@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of shareable research. 
+My favorite (shareable) research projects. 
 
 ---
 
@@ -15,7 +15,7 @@ My favorite pieces of shareable research.
 
 ---
 
-**Research Questions:** How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What is the best quantification of uncertainty for climate forecasts in Southwest deserts?
+**Research Questions:** How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What underlying uncertainties are contained in geospatial climate change forecasts?
 
 ---
 
