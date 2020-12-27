@@ -11,7 +11,7 @@ My favorite (shareable) research projects.
 
 ### Ensemble Climate Projections 
 
-*Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Poster presenter at SICB 2021 and talk presenter at SCCUR 2019.*
+*Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Poster presenter at SICB 2021 and talk presenter at SCCUR 2019 conferences.*
 
 ---
 
