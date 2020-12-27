@@ -11,11 +11,11 @@ My favorite (shareable) research projects.
 
 ### Ensemble Climate Projections 
 
-Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Poster presenter at SICB 2021 and talk presenter at SCCUR 2019.
+*Funded through NSF Award #1757952, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Poster presenter at SICB 2021 and talk presenter at SCCUR 2019.*
 
 ---
 
-**Research Questions:** *What can we learn about jointly projecting range models of symbiotic species to future climates? Will climate change decrease geographic overlap between two iconic Mojave species?* 
+**Research Questions:** What can we learn about jointly projecting range models of symbiotic species to future climates? Will climate change decrease geographic overlap between two iconic Mojave species?
 
 ---
 
@@ -33,11 +33,11 @@ Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="htt
 
 ### Material Science of Ice Densification
 
-Funded through Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. See <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a> through Google Drive or a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF.
+*Funded through Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. See <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a> through Google Drive or a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF.*
 
 ---
 
-**Research Questions:** *How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
+**Research Questions:** How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
 ---
 
