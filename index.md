@@ -15,7 +15,7 @@ My favorite (shareable) research projects.
 
 ---
 
-**Research Questions:** How can models of climate change effects on geographic distributions incorporate symbiotic species relationships? What underlying uncertainties are contained in geospatial climate change forecasts?
+**Research Questions:** What can we learn about jointly projecting range models of symbiotic species to future climates? Will climate change decrease geographic overlap between two iconic Mojave species? 
 
 ---
 
