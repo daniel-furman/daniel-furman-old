@@ -11,7 +11,7 @@ My favorite (shareable) research projects.
 
 ### Ensemble Climate Projections 
 
-*What can we learn about jointly projecting range models of symbiotic species to future climates? Will climate change decrease geographic overlap between two iconic Mojave species?*
+*What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species*
 
 ---
 
