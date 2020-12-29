@@ -15,7 +15,8 @@ My favorite (shareable) research projects.
 
 ---
 
-Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Poster presenter at SICB 2021 and talk presenter at SCCUR 2019 conferences.
+Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a poster at SICB 2021 and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">talk at SCCUR 2019</a><br>.
+
 
 ---
 
@@ -26,7 +27,6 @@ Computational ecology research funded through the NSF Data Science Award #175795
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
@@ -48,7 +48,6 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/u/2/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x">Further Reading</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
