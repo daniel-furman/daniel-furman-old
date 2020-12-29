@@ -15,7 +15,7 @@ My favorite (shareable) research projects.
 
 ---
 
-Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a SICB poster (2021) and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk</a> (2019).
+Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a SICB poster (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk</a> (2019).
 
 
 ---
@@ -54,14 +54,18 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <br><br>
 
-## Interests
+## Volunteering & Iterests
 
 ---
 
-I surf, love art, climb boulders, and eat sustainable foods. 
+*	[Hobbies](activities.md) include surfing, music (guitar, bass, keys), rock climbing, [reading](reading.md), and spending time outdoors.
+*	Interested in green solutions to environmental and public health issues, with an eye towards sustainability.
+* Work-study at Cook-Wissahickon School w/ Philadelphia Water (2016-17, 3 hrs. weekly).
+*	Volunteer with Star Paws Rescue (2013-16, 4 hrs. bi-weekly) and the Marine Mammal Center (5k run).
+* Certified Padi Rescue Scuba Diver with AQF CPR, First Aid, and O2 training
 
 ---
 
-[Hobbies](activities.md)<br>
-[Reading](reading.md)
+
+
 
