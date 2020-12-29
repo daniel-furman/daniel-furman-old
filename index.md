@@ -15,14 +15,14 @@ My favorite (shareable) research projects.
 
 ---
 
-Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a SICB poster (2021) and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk</a><br> (2019).
+Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a SICB poster (2021) and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk</a> (2019).
 
 
 ---
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic Regression</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geospatial Prediction</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
