@@ -15,7 +15,7 @@ My favorite (shareable) research projects.
 
 ---
 
-Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a poster at SICB 2021 and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">talk at SCCUR 2019</a><br>.
+Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a SICB poster (2021) and <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk (2019)</a><br>.
 
 
 ---
