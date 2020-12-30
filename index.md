@@ -54,18 +54,16 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <br><br>
 
-## Volunteering & Iterests
+## Interests & Volunteering
 
 ---
 
+* My [hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
+* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
+* Padi Rescue Diver, AQF CPR, First Aid, and O2 certifications
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer field intern with the Wildlife Works Company
 *	Volunteer with Star Paws Rescue and the Marine Mammal Center
-* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
-* Padi Rescue Diver, AQF CPR, First Aid, and O2 certifications
-* My [hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
-
-
 
 ---
 
