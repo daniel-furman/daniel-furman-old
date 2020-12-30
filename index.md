@@ -1,8 +1,8 @@
-# Portfolio Website
+# Portfolio
 
 ---
 
-My favorite (shareable) research projects. 
+My favorite pieces of (shareable) research. 
 
 ---
 
@@ -61,7 +61,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 * [Hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
 *	Member of Penn Varsity (D1) Golf Team ('16-17)
 * [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
-•	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
+*	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
 * Padi Rescue Diver, AQF CPR, First Aid, and O2 certifications
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer field intern with the Wildlife Works Company
