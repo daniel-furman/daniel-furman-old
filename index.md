@@ -58,11 +58,13 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 ---
 
-*	[Hobbies](activities.md) include surfing, music (guitar, bass, keys), rock climbing, [reading](reading.md), and spending time outdoors.
-*	Interested in green solutions to environmental and public health issues, with an eye towards sustainability.
-* Work-study at Cook-Wissahickon School w/ Philadelphia Water (2016-17, 3 hrs. weekly).
-*	Volunteer with Star Paws Rescue (2013-16, 4 hrs. bi-weekly) and the Marine Mammal Center (5k run).
-* Certified Padi Rescue Scuba Diver with AQF CPR, First Aid, and O2 training
+* [Hobbies](activities.md) {surfing, music (guitar, bass, keys), climbing}
+* [Reading](reading.md) and learning about the outdoors.
+*	Green solutions to environmental and public health issues
+* Work-study at Cook-Wissahickon School w/ Philadelphia Water
+*	Volunteer with Star Paws Rescue and the Marine Mammal Center.
+* Padi Rescue Diver, AQF CPR, First Aid, and O2 certs
+* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, “The Indirect Hand of Man” (2017)
 
 ---
 
