@@ -58,7 +58,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 ---
 
-* My [hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
+* [Hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
 * [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
 * Padi Rescue Diver, AQF CPR, First Aid, and O2 certifications
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
