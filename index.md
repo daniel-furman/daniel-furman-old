@@ -6,8 +6,6 @@ My favorite pieces of (shareable) research.
 
 ---
 
-<br>
-
 
 ### Ensemble Climate Projections 
 
@@ -52,7 +50,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
 
-<br><br>
+<br>
 
 ## Interests & Volunteering
 
