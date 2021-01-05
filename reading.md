@@ -1,7 +1,7 @@
 # Reading
 ---
 <center>
-<img src="images/surfing_.png" class="center">
+<img src="images/reading.png" class="center">
 </center>
 
 Currently pouring through <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth">The Uninhabitable Earth: Life After Warming</a> by David Wallace-Wells. 
