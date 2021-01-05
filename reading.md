@@ -1,5 +1,9 @@
 # Reading
 ---
+<center>
+<img src="images/surfing_.png" class="center">
+</center>
+
 Currently pouring through <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth">The Uninhabitable Earth: Life After Warming</a> by David Wallace-Wells. 
 
 Recent favorits include <a target="_blank" rel="noopener noreferrer" href="https://www.ynharari.com/book/21-lessons-book/">21 Lessons for the 21 Century</a> by Yuval Noah Harari, <a target="_blank" rel="noopener noreferrer" href="https://www.thedatasciencehandbook.com/"> The Data Science Handbook</a> (several authors), and <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/Spillover_Animal_Infections_and_the_Next/ezeIZReBMt4C?hl=en&gbpv=0">Spillover</a> by David Quammen. <break><break>
