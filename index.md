@@ -1,4 +1,4 @@
-# Dan's Portfolio
+# Daniel's Portfolio
 
 ---
 
