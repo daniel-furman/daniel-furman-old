@@ -20,15 +20,18 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-* Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).
+* Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. 
+* Description: Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).
 
 <img src="images/range.png?raw=true"/>
 
-* Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.
+* Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. 
+* Description: Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.
 
 <img src="images/pca.png?raw=true"/><br><br>
 
-* Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Similarity</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
+* Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Similarity</a></ins>. 
+* Description: Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
 Corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
