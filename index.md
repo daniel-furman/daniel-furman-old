@@ -20,7 +20,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-<p align="center">Fig 1.<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic Reg</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species modeling).</p>
+<p align="center">Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble vs. Logistic Reg</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).</p>
 
 <img src="images/range.png?raw=true"/>
 
@@ -45,26 +45,21 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 ---
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
 
-<p align="center">Fig. 4: Experimental firn data mimicking rates of ice sheet densification, over varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).</p>
+<p align="center">Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins>. Experimental firn data mimicking rates of ice sheet densification, over varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).</p>
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
 
-<p align="center">Fig. 5: Numerical models for ice sheet densification, based on constitutive rate/stress relationship:</p>
-
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins></p><br>
+<p align="center">Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>. Numerical models for ice sheet densification, based on constitutive rate/stress relationship.</p>
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center">Fig. 6: Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search without (left) and with (right) a prior distribution.</p>
+<p align="center">Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search without (left) and with (right) a prior distribution.</p>
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
 
-<p align="center">Fig. 7: Densification testing across multiple weeks, approaching the limit of lab rates' measurement.</p>
+<p align="center">Fig. 7. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins>. Densification testing across multiple weeks, approaching the limit of lab rates' measurement.</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
