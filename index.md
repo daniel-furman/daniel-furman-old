@@ -46,7 +46,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without (left) and with (right) priors</a></ins></p><br>
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-*Particle decay simulation example (not ice dens. models <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}">)*
+(Particle decay simulation example (not ice dens. models <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}">)
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
@@ -61,7 +61,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 ---
 
-* [Hobbies](activities.md) include surfing, music (guitar, bass), [reading](reading.md), and climbing
+* [Hobbies](activities.md): surfing, making music, [reading](reading.md), rock climbing, [programming](programming.md)
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer with Wildlife Works Company (see [blog publication](psr_redd_blog.pdf))
 * [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
