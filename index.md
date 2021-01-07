@@ -43,10 +43,11 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <img src="images/exp-interv.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
+
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins></p><br>
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center"> (Above: Particle decay simulation example, not ice dens. models <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}">)</p>
+<p align="center"> (Above: Particle decay simulation example: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}">), also applied to ice dens. models)</p>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
