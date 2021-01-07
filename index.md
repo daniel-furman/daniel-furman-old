@@ -20,7 +20,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. **Geo-classification AUC and ROC** plot results on 20% held validation-set (for Xantusia species distribution modeling).
+Fig 1. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>**. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).
 
 <img src="images/range.png?raw=true"/>
 
@@ -74,7 +74,7 @@ Fig. 7. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.c
 * [Hobbies](activities.md): surfing, making music, [reading](reading.md), rock climbing, [programming](programming.md)
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer with Wildlife Works Company (see [blog publication](psr_redd_blog.pdf))
-* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainablity Review, "The Indirect Hand of Man"
+* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainability Review, "The Indirect Hand of Man"
 *	Volunteer with Star Paws Rescue and the Marine Mammal Center
 *	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
 *	Member of Penn Varsity (D1) Golf Team ('16-17)
