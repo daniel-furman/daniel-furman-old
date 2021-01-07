@@ -22,7 +22,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 <img src="images/auc.png?raw=true"/>
 
 
-*Fig. 1: Geo-classification **AUC and ROC plot** results on 20% held validation-set (for Xantusia species modeling).*
+<p align="center">Fig. 1: Geo-classification <p class = "one">AUC and ROC plot</p> results on 20% held validation-set (for Xantusia species modeling).</p>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
