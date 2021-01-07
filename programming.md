@@ -1,10 +1,10 @@
 
 
-# Programming Competencies
+## Programming Competencies
 
 ---
 
-A list that details many of some of the things I program. Exhaustive as per Jan 7 2021.
+Details many of the things I program (as of Jan 7 2021).
 
 ---
 
@@ -13,7 +13,7 @@ A list that details many of some of the things I program. Exhaustive as per Jan 
 ---
 
 <img src="images/programming3.png" class="center">
-(Screenshots of my Python and R development, with my Mac's preferenced settings.)
+(Screenshots from my Python and R development, with my Mac's preferenced color settings :).)
 
 ---
 
