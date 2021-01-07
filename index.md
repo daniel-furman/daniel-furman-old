@@ -20,15 +20,15 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-<p align="center">Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble vs. Logistic Reg</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).</p>
+<p align="center">Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).</p>
 
 <img src="images/range.png?raw=true"/>
 
-<p align="center">Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction.</a></ins> Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.</p>
+<p align="center">Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.</p>
 
 <img src="images/pca.png?raw=true"/><br><br>
 
-<p align="center">Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).</p>
+<p align="center">Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Similarity</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).</p>
 
 Corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
@@ -47,19 +47,19 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/exp-interv.png?raw=true"/>
 
-<p align="center">Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins>. Experimental firn data mimicking rates of ice sheet densification, over varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).</p>
+<p align="center">Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rate Data</a></ins>. Experimental firn data mimicking rates of ice sheet densification, over varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).</p>
 
 <img src="images/map.png?raw=true"/>
 
-<p align="center">Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>. Numerical models for ice sheet densification, based on constitutive rate/stress relationship.</p>
+<p align="center">Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism "Map" Modeling</a></ins>. Numerical models for ice sheet densification, based on constitutive rate/stress relationship.</p>
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center">Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search without (left) and with (right) a prior distribution.</p>
+<p align="center">Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC parameter search modeling</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search without (left) and with (right) a prior distribution.</p>
 
 <img src="images/multi.png?raw=true"/><br><br>
 
-<p align="center">Fig. 7. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins>. Densification testing across multiple weeks, approaching the limit of lab rates' measurement.</p>
+<p align="center">Fig. 7. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction</a></ins>. Densification testing across multiple weeks, approaching the lower limit of lab rate testing.</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
