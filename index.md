@@ -52,7 +52,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
 
-<p align="center"> Fig. 4: Experimental data on ice densification, over varying grain size <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">(see experimental rig)</a>.</p>
+<p align="center"> Fig. 4: Experimental data on ice densification, over varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).</p>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
@@ -62,7 +62,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center" class="one"> Fig. 6: Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search.</p>
+<p class="one" align="center"> Fig. 6: Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search.</p>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
