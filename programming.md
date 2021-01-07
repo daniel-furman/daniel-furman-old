@@ -1,6 +1,10 @@
+
+
+# Daniel Furman's Programming Competencies
+
 ---
 
-### Daniel Furman's Programming Competencies
+A list that details many of some of the things I program. Exhaustive as per Jan 7 2021.
 
 ---
 
