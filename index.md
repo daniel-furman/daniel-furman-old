@@ -20,17 +20,15 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic</a></ins>: Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species modeling).</p>
+<p align="center">Fig 1.<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic Reg</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species modeling).</p>
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
 
-<p align="center">Fig. 2: Example of PyImpute **spatial prediction**, Xantusia species interpolation to 1970-2000 climate.</p>
+<p align="center">Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction.</a></ins> Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.</p>
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
-<p align="center">Fig. 3: Similarity metrics on **clusters and alpha hulls** (i.e., via analyses with Jaccard metrics).</p>
+<p align="center">Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).</p>
 
 Corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
