@@ -47,7 +47,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/exp-interv.png?raw=true"/>
 
-Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>. Creep **tests on firn** mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
+Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>. **Firn tests** mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
 
 <img src="images/map.png?raw=true"/>
 
