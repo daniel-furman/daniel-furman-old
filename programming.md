@@ -1,3 +1,9 @@
+---
+
+### Daniel Furman's Programming Competencies
+
+---
+
 <center>
 <img src="images/programming.png" class="center">
 </center>
