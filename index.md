@@ -20,15 +20,15 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-<p align="center">Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).</p>
+* Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>. Geo-classification AUC and ROC plot results on 20% held validation-set (for Xantusia species distribution modeling).
 
 <img src="images/range.png?raw=true"/>
 
-<p align="center">Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.</p>
+* Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.
 
 <img src="images/pca.png?raw=true"/><br><br>
 
-<p align="center">Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Similarity</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).</p>
+* Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Similarity</a></ins>. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
 Corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
@@ -51,11 +51,11 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-<p align="center">Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism "Map" Modeling</a></ins>. Numerical models for ice sheet densification, based on constitutive rate/stress relationship.</p>
+<p align="center">Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>. Numerical "map" models for rates of ice sheet densification, based on the constitutive rate/stress relationship.</p>
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center">Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC parameter search modeling</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search without (left) and with (right) a prior distribution.</p>
+<p align="center">Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with MCMC parameter search, without (left) and with (right) a prior distribution.</p>
 
 <img src="images/multi.png?raw=true"/><br><br>
 
