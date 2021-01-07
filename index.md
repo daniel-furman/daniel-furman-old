@@ -24,11 +24,11 @@ Fig 1. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.
 
 <img src="images/range.png?raw=true"/>
 
-Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>. Example of **PyImpute spatial prediction**, Xantusia species interpolation to 1970-2000 climate.
+Fig. 2. **<ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.
 
 <img src="images/pca.png?raw=true"/><br><br>
 
-Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>. **Similarity metrics** on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
+Fig. 3. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
 Corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
@@ -47,19 +47,19 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/exp-interv.png?raw=true"/>
 
-Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>. **Firn tests** mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
+Fig. 4. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>**. Firn tests mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
 
 <img src="images/map.png?raw=true"/>
 
-Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>. **Numerical "map" models** for rates of ice sheet densification, based on the constitutive rate/stress relationship.
+Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" models for rates of ice sheet densification, based on the constitutive rate/stress relationship.
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-Fig. 6. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC</a></ins>. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with **MCMC parameter search**, without (left) and with (right) a prior distribution.
+Fig. 6. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC</a></ins>**. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with MCMC parameter search, without (left) and with (right) a prior distribution.
 
 <img src="images/multi.png?raw=true"/><br><br>
 
-Fig. 7. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction</a></ins>. Densification testing across **multiple weeks**, approaching the lower limit of lab rate testing.
+Fig. 7. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of lab rate testing.
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
