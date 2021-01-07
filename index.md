@@ -18,12 +18,22 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 ---
 
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic Regression</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py"> Tree-Based Ensemble vs. Logistic</a></ins></p><br>
 <img src="images/auc.png?raw=true"/>
+
+
+<p align="center"> Fig. 1: Geo-classification AUC plots on validation-set (20% held), for Xantusia distribution.</p>
+
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Classifier: Geo-spatial Prediction</a></ins></p><br>
 <img src="images/range.png?raw=true"/>
+
+<p align="center"> Fig. 2: Example of PyImpute spatial prediction, Xantusia interpolation to 1970-2000 climate.</p>
+
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species PCA Overlap</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
+
+<p align="center"> Fig. 3: Similarity metrics on clusters and alpha hulls (i.e., via Jaccard method technique).</p>
+
 Also see my corresponding <a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a> on Species Distribution Modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
@@ -41,13 +51,16 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/exp_confidence_intervals.py">Experimental Confidence Intervals</a></ins></p><br>
 <img src="images/exp-interv.png?raw=true"/>
+
+<p align="center"> Fig. 4: Experimental data on ice densification, over varying grain size <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">(see experimental rig)</a>.</p>
+
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins></p><br>
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-<p align="center"> Above: Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}">, MCMC class also applied to ice dens.</p>
+<p align="center"> Fig. 6: Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> modeling with MCMC parameter search.</p>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/dens_multiweek.py">Multiple Week Compaction Output</a></ins></p><br>
 <img src="images/multi.png?raw=true"/><br><br>
