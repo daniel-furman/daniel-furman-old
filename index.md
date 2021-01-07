@@ -57,7 +57,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020-GRL/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins></p><br>
 <img src="images/map.png?raw=true"/>
 
-<center> *Fig. 5 /center>*
+<center> *Fig. 5* /center>
 
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs/blob/master/MCMC_particle_modeling.py">MCMC modeling without/with prior</a></ins></p><br>
 
