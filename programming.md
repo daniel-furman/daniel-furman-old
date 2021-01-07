@@ -13,7 +13,7 @@ Details many of the things I program (as of Jan 7 2021).
 ---
 
 <img src="images/programming3.png" class="center">
-(Screenshots from my Python and R development, with my Mac's preferenced color settings :).)
+(Screenshots from my Python and R development, with my Mac's preferenced color settings.)
 
 ---
 
