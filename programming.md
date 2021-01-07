@@ -1,6 +1,6 @@
 
 
-# Daniel Furman's Programming Competencies
+# Programming Competencies
 
 ---
 
