@@ -6,6 +6,6 @@
 
 <img src="images/programming.png" class="center">
 <img src="images/programming3.png" class="center">
-<p class="text-center">Screenshots of my Python and R development, with my Mac's preferenced settings.</p>
+<p class="center">Screenshots of my Python and R development, with my Mac's preferenced settings.</p>
 <img src="images/Programming_Furman2.png" class="center">
 
