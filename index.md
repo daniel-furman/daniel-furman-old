@@ -26,7 +26,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
-Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a>** on species distribution modeling.<br><br>
+Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a></ins>** on species distribution modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
@@ -47,7 +47,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow. <img src="https://render.githubusercontent.com/render/math?math=\dot{{\varepsilon}} =\frac{2{A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})">
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow. <img src="https://render.githubusercontent.com/render/math?math=\dot{{\epsilon}} =\frac{2{A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})">
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
