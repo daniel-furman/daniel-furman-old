@@ -47,7 +47,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow: <img src="https://render.githubusercontent.com/render/math?math=\dot{{\varepsilon}} =\frac{2{A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})"> with stress exponent n, grain size d, and grain size exponent p.
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow: <img src="https://render.githubusercontent.com/render/math?math=\dot{{\varepsilon}} =\frac{2{A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})">, change in density/density ice. With stress exponent n, grain size d, and grain size exponent p.
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
