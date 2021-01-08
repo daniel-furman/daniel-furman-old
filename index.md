@@ -26,7 +26,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
-Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a>** on Species Distribution Modeling.<br><br>
+Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a>** on species distribution modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
