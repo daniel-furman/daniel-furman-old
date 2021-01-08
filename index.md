@@ -22,7 +22,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/range.png?raw=true"/>
 
-**Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. | <img src="https://render.githubusercontent.com/render/math?math=class vote = \P(\overline{rf,et,lgbm})"> | PyImpute spatial prediction with soft-voting ensemble, Xantusia interpolation to 1970-2000 climate. 
+**Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. <img src="https://render.githubusercontent.com/render/math?math=class vote = \P(\overline{rf,et,lgbm})"> (per raxel pixel). Spatial prediction with soft-voting ensemble in Python, Xantusia species distribution interpolation to 1970-2000 bioclimate. 
 
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
