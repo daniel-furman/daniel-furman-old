@@ -47,11 +47,11 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/exp-interv.png?raw=true"/>
 
-Fig. 4. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>**. Firn tests mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
+Fig. 4. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>**. Firn tests mimicking rates of ice sheet densification, varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental rig</a>).
 
 <img src="images/map.png?raw=true"/>
 
-Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" models for rates of ice sheet densification, based on the constitutive rate/stress relationship.
+Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" models for rates of ice sheet densification, based on the constitutive rate/stress relationship.
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
@@ -59,9 +59,9 @@ Fig. 6. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github
 
 <img src="images/multi.png?raw=true"/><br><br>
 
-Fig. 7. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of lab rate testing.
+Fig. 7. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of lab rate testing.
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby-2020">Code Repository</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
 
