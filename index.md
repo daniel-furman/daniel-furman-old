@@ -24,6 +24,9 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 **Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Example of PyImpute spatial prediction, Xantusia species interpolation to 1970-2000 climate.
 
+<img src="https://render.githubusercontent.com/render/math?math=/class_vote = {/P}(rf,et,gbm/3)">
+
+
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
 
 Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/py-sdms-tutorial/">Python tutorial</a></ins>** on species distribution modeling.<br><br>
