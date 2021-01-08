@@ -6,7 +6,7 @@ My favorite pieces of (shareable) research.
 
 ---
 
-<img src="https://render.githubusercontent.com/render/math?math={\varepsilon} dt =\frac{2\A(1-/pr)}{(1-(1-pr)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})">
+<img src="https://render.githubusercontent.com/render/math?math=dot{{\varepsilon}} =\frac{2\A(1-/pr)}{(1-(1-pr)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})">
 
 ### Ensemble Climate Projections 
 
