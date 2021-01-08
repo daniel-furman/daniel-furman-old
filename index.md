@@ -51,7 +51,9 @@ Fig. 4. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github
 
 <img src="images/map.png?raw=true"/>
 
-Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow. 
+Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow. <img src="https://render.githubusercontent.com/render/math?math={-\varepsilon t} dt =
+	\frac{2\A(1-/rhor)}{(1-(1-/rhor) ^{1/n}^{n}} (\frac{2\sigma}{n}^{n} exp(\frac{-Q}{RT})">
+
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
