@@ -6,9 +6,9 @@
 
 Details about my programming competencies (as of Jan 7 2021).
 
----
-
 Table of contents: Python, R, C++, OCaml, Zsh, MATLAB, ArcGIS
+
+---
 
 **1. Python.** The language I have most applied experience with. ML cross-validation tuning and validation error pipelines, feature engineering, feature selection, raster-based analytics, data mining and pre-processing, data visualization, unsupervised learning, and constitutive physics modeling. Some of these programs are centrally based on recursion (e.g., feature selection), while others develop object-oriented classes (e.g., MCMC parameter space exploration). I am comfortable in writing style guide enforcement (e.g., flake8) for Python programs, and with leveraging well-developed third-party libraries (Pandas, NumPy, SciPy, SciKit-Learn, PyCaret, Apache-Spark, TensorFlow, Matplotlib, GeoPandas, SymPy, PyImpute). I am proudly an open-source contributor to PyImpute (a high-level geo-classification library), updating Sci-Kit Learn pipelines and geo-data processing in several of its functions. 
 
