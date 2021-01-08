@@ -22,7 +22,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/range.png?raw=true"/>
 
-**Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. <img src="https://render.githubusercontent.com/render/math?math=class vote = \prob(\overline{rf,et,lgbm})"> Example of PyImpute spatial prediction with soft-voting, Xantusia interpolation to 1970-2000 climate. 
+**Fig. 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. | <img src="https://render.githubusercontent.com/render/math?math=class vote = \P(\overline{rf,et,lgbm})"> | PyImpute spatial prediction with soft-voting ensemble, Xantusia interpolation to 1970-2000 climate. 
 
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
@@ -48,7 +48,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})"> Numerical "map" model for rates of ice sheet densification, based on the constitutive strain/stress relationship. 
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. | <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})"> | Numerical mechanism map model for rates of ice sheet densification, based on the constitutive strain/stress relationship. 
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
