@@ -15,7 +15,6 @@ My favorite pieces of (shareable) research.
 
 Computational ecology research funded through the NSF Data Science Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Two-time conference presenter, via a [SICB poster](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR talk</a> (2019).
 
-
 ---
 
 <img src="images/auc.png?raw=true"/>
@@ -53,7 +52,7 @@ Fig. 4. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github
 
 Fig. 5. **<ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical "map" model for rates of ice sheet densification, based on the constitutive rate/stress relationship in rheological flow. 
 
-<img src="https://render.githubusercontent.com/render/math?math={-\varepsilon t} dt =\frac{2\A(1-/rhor)}{(1-(1-/rhor) ^{1/n}^{n}} (\frac{2\sigma}{n}^{n} exp(\frac{-Q}{RT})">
+<img src="https://render.githubusercontent.com/render/math?math={-\varepsilon} dt (frac{/rho}{/rho} =\frac{2\A(1-/rho r)}{(1-(1-/rho r) ^{1/n}^{n}} (\frac{2\sigma}{n}^{n} exp(\frac{-Q}{RT})">
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
