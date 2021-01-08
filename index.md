@@ -48,7 +48,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical mechanism map model for ice sheet densification, based on the constitutive relationships in <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p}) :"> my novel rate model for ice densification. 
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical mechanism map model for ice sheet densification, based on the constitutive relationships in <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})"> (my novel rate model for ice densification.) 
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
