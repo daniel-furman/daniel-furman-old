@@ -22,7 +22,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/ML_sdms_predict.py">Tree-Based Ensemble Performance</a></ins>**. Geo-classification AUC and ROC plot results on 20% held validation-set, for Xantusia species distribution modeling above.
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main">Tree-Based Ensemble Performance</a></ins>**. Geo-classification AUC and ROC plot results on 20% held validation-set, for Xantusia species distribution modeling above.
 
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
