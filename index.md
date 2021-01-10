@@ -18,7 +18,9 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Spatial prediction per 4 kilometer squared cell for Xantusia distribution (interpolation to 1970-2000 bioclimate). Employed <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> sci-kit model for probalistic species niche classification.
+<img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})">
+
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Employed ML ensemble for probalistic species niche classification, prediction per 4 kilometer squared cell. For Xantusia distribution, interpolation to 1970-2000 bioclimate features. 
 
 <img src="images/auc.png?raw=true"/>
 
@@ -44,7 +46,9 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics in: <img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho} = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> (with semi-emp. parameters from my experiments).
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho} = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}">
+
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics above (with semi-emp. parameters from my experiments).
 
 <img src="images/exp-interv.png?raw=true"/>
 
