@@ -20,7 +20,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Employed ML ensemble for probalistic species niche classification, prediction per 4 kilometer squared cell. For Xantusia distribution, interpolation to 1970-2000 bioclimate features. 
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Employed machine learner ensemble for probalistic niche classification, with prediction per 4 kilometer squared cell (for Xantusia distribution, interpolation to 1970-2000 bioclimate features). 
 
 <img src="images/auc.png?raw=true"/>
 
@@ -46,7 +46,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"></p>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
 **Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics above (with semi-emp. parameters from my experiments).
 
