@@ -44,7 +44,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics in: <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})"> (with semi-emp. parameters set from my experimental results).
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics in: <img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho} = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> (with semi-emp. parameters from my experiments).
 
 <img src="images/exp-interv.png?raw=true"/>
 
