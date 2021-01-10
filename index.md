@@ -20,7 +20,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Employed machine learner ensemble for probalistic niche classification, with prediction per 4 kilometer squared cell (for Xantusia distribution, interpolation to 1970-2000 bioclimate features). 
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Ensemble for probalistic niche classification, with prediction per 4 kilometer squared cell (for Xantusia, interpolation to 1970-2000 bioclimate). 
 
 <img src="images/auc.png?raw=true"/>
 
