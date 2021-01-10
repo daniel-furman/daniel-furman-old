@@ -4,7 +4,7 @@
 <img src="images/reading.png" class="center">
 </center>
 
-Currently pouring through the burning pages of <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth">The Uninhabitable Earth: Life After Warming</a> by journalist David Wallace-Wells. I am also reading <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/23995360-superforecasting">Superforecasting</a> by UPenn professor Philip E. Tetlock and co-author Dan Gardner.
+Currently pouring through the burning pages of <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth">The Uninhabitable Earth: Life After Warming</a> by journalist David Wallace-Wells. I am also reading <a target="_blank" rel="noopener noreferrer" href="https://www.goodreads.com/book/show/23995360-superforecasting">Superforecasting: The Art and Science of Prediction</a> by UPenn professor Philip E. Tetlock and co-author Dan Gardner.
 
 Recent favorits include <a target="_blank" rel="noopener noreferrer" href="https://www.ynharari.com/book/21-lessons-book/">21 Lessons for the 21 Century</a> by historian Yuval Noah Harari, <a target="_blank" rel="noopener noreferrer" href="https://www.thedatasciencehandbook.com/"> The Data Science Handbook</a> (several authors), and <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/books/edition/Spillover_Animal_Infections_and_the_Next/ezeIZReBMt4C?hl=en&gbpv=0">Spillover</a> by virologist David Quammen. <break><break>
 
