@@ -44,7 +44,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <img src="images/map.png?raw=true"/>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Modeling</a></ins>**. Numerical mechanism map model for ice sheet densification, based on the constitutive relationships between rate and stress (**<img src="https://render.githubusercontent.com/render/math?math=\sigma">**) & grain-size (**<img src="https://render.githubusercontent.com/render/math?math=d">**): <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})">
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Deformation Map for Ice Densification</a></ins>**. Rate model constructed from the flow laws for firn creep (constrained from my experiments) for a temperature of 233 K and relative density of 0.85, plotted across stress (**<img src="https://render.githubusercontent.com/render/math?math=\sigma">**) and grain-size (**<img src="https://render.githubusercontent.com/render/math?math=d">**). The approximate range of stresses in ice sheets is shown by the rectangle. Based on the constitituve power-law relationships in: <img src="https://render.githubusercontent.com/render/math?math=(\frac{\dot{\rho}}{\rho}) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})(d^{-p})">
 
 <img src="images/exp-interv.png?raw=true"/>
 
