@@ -18,7 +18,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <img src="images/range.png?raw=true"/> 
 
-<center> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </center>
+<p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
 
 **Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Employed ML ensemble for probalistic species niche classification, prediction per 4 kilometer squared cell. For Xantusia distribution, interpolation to 1970-2000 bioclimate features. 
 
