@@ -37,6 +37,6 @@ Table of contents: Python, R, C++, OCaml, Zsh, MATLAB, ArcGIS
  
 ---
 
-**6. ArcGIS.** Cartographic modeling for a wide variety of geo-spatial analytics. Info: With coursework from the inventor of Map algebra (Dana Tomlin), I am versed in the nature and use of raster-based information. Fluency with Python source-code for ArcGIS functions, as well as with the writing code with the ArcGIS API for Python. Concepts from the course were critical in my geo-modeling research, in many of the raster-based analyses I have implemented in Python and R. 
+**6. ArcGIS.** Cartographic modeling for a wide variety of geo-spatial analytics. With coursework from the developper of map algebra (Prof. Dana Tomlin), I am versed in the nature and use of raster-based information. Fluency with Python source-code for ArcGIS functions, as well as with the writing code with the ArcGIS API for Python. Concepts from the course were critical in my geo-modeling research, in many of the raster-based analyses I have implemented in Python and R. 
 
 
