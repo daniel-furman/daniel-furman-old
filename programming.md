@@ -33,7 +33,7 @@ Table of contents: Python, R, C++, OCaml, Zsh, MATLAB, ArcGIS
 
 ---
 
-**5. MATLAB.** Employed for topics in mathematics. Info: Proficiency to write, from scratch, numerical methods in errors and floating-point numbers, solutions of equations, polynomial interpolation, calculus, approximation of functions, solutions of differential equations, solving linear systems equations, vector spaces, orthogonality and the Gram–Schmidt algorithm, determinants, eigenvalues and eigenvectors, and linear transforms, as well as run time analysis across these topics. 
+**5. MATLAB.** Employed for topics in mathematics. Proficiency to write, from scratch, numerical methods in errors and floating-point numbers, solutions of equations, polynomial interpolation, calculus, approximation of functions, solutions of differential equations, solving linear systems equations, vector spaces, orthogonality and the Gram–Schmidt algorithm, determinants, eigenvalues and eigenvectors, and linear transforms, as well as run time analysis across these topics. 
  
 ---
 
