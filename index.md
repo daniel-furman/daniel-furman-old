@@ -77,7 +77,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 *	Volunteer with Star Paws Rescue and the Marine Mammal Center
 *	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
 *	Member of Penn Varsity (D1) Golf Team ('16-17)
-* Padi Rescue Diver, AQF CPR, First Aid, and O2 certifications
+* PADI Rescue Diver, AQF CPR, First Aid, and O2 certifications
 
 ---
 
