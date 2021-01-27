@@ -20,7 +20,7 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Ensemble moodeling for the Desert Night Lizard's distribution, per 4 kilometer squared cell. 
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Ensemble modeling for the Desert Night Lizard's distribution, per 4 kilometer squared cell. 
 
 <img src="images/auc.png?raw=true"/>
 
@@ -48,7 +48,7 @@ Ice mineral physics research funded through the Rose Undergraduate Research Awar
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitituve physics above (with semi-emp. parameters from my experiments).
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed from rate models for firn creep (233 K), based on the constitutive rate/stress relationship (with semi-emp. parameters from my experiments).
 
 <img src="images/exp-interv.png?raw=true"/>
 
