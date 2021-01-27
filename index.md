@@ -20,11 +20,11 @@ Computational ecology research funded through the NSF Data Science Award #175795
 
 <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Ensemble for probalistic niche classification, with prediction per 4 kilometer squared cell (for Xantusia, interpolation to 1970-2000 bioclimate). 
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Soft Voting Geo-prediction</a></ins>**. Ensemble moodeling for the Desert Night Lizard's distribution, per 4 kilometer squared cell. 
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Tree-Based Ensemble Performance</a></ins>**. Geo-classification AUC and ROC plot results on 20% held validation-set, for Xantusia species distribution modeling above.
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Tree-Based Ensemble Performance</a></ins>**. Geo-classification AUC and ROC plot results on 20% held validation-set, for the above species distribution model.
 
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
