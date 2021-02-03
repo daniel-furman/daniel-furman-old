@@ -4,7 +4,7 @@
 
 ---
 
-Details about my programming competencies (as of Jan 7 2021).
+Details about my programming competencies (as of Jan 7 2021). My preferred text editor is Atom. My favorite programming language is Python.  
 
 Table of contents: Python, R, C++, OCaml, Zsh, MATLAB, ArcGIS
 
