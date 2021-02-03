@@ -6,7 +6,7 @@ My favorite pieces of (shareable) research. I think I have made some progress in
 
 ---
 
-### Ensemble Climate Projections for Mojave Species (Harvey Mudd)
+### Ensemble Climate Projections (at Harvey Mudd College)
 
 *What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species?*
 
@@ -34,7 +34,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Material Science of Ice Densification (UPenn)
+### Material Science of Ice Densification (at UPenn)
 
 *How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
 
