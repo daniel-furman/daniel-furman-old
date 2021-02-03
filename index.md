@@ -2,17 +2,17 @@
 
 ---
 
-My favorite pieces of (shareable) research. 
+My favorite pieces of (shareable) research. I think I have made some progress in my research interests, yet I aim to solve many new questions, across many different disciplines. I have a challenge-driven attitude towards science. 
 
 ---
 
-### Ensemble Climate Projections for Mojave Species
+### Ensemble Climate Projections for Mojave Species (Harvey Mudd)
 
 *What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species?*
 
 ---
 
-Computational ecology research for conservation in the Mojave and beyond. Funded through the NSF #1757952 award, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Publications: [SICB Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Talk Presentation</a> (2019).
+Computational ecology research for conservation in the Mojave and beyond. Funded through the NSF #1757952 award, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Conference Publications: [SICB Meeting Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting Talk</a> (2019).
 
 ---
 
@@ -34,7 +34,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Material Science of Ice Densification
+### Material Science of Ice Densification (UPenn)
 
 *How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
 
