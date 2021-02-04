@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of shareable research. My previous interests include computational ecology (machine learning with geo-spatial information) and experimental geophysics (for ice sheet flow applications with mineral physics methods). I am excited to learn more!
+My favorite pieces of shareable research, in computational ecology (machine learning with geo-spatial information) and experimental geophysics (for ice sheet flow applications with mineral physics methods). I am stoked to keep learning!
 
 ---
 
