@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of shareable research. My previous interests include computational ecology (machine learning with geo-spatial information) and experimental geophysics (for ice sheet flow applications with mineral physics methods). I am excited to learn more about new research in ethical data science for social good, as well as in environmental systems and energy systems. 
+My favorite pieces of shareable research. My previous interests include computational ecology (machine learning with geo-spatial information) and experimental geophysics (for ice sheet flow applications with mineral physics methods). I am excited to learn more!
 
 ---
 
@@ -12,7 +12,7 @@ My favorite pieces of shareable research. My previous interests include computat
 
 ---
 
-Computational ecology research for conservation in the Mojave and beyond. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Conference Publications: [SICB Meeting Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting Talk</a> (2019).
+Computational ecology for biodiversity conservation. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Conference Publications: [SICB Meeting Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting Talk</a> (2019).
 
 ---
 
@@ -40,7 +40,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 ---
 
-Ice physics and flow processes in the near-surface of ice sheets. Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. Publications (senior thesis): <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>, alongside a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF's website.
+Ice physics and flow processes in ice sheets. Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. Publications (senior thesis): <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>, alongside a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF's website.
 
 ---
 
