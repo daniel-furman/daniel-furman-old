@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of (shareable) research. I think I have made some progress in my research interests, yet I aim to solve many new questions, across many different disciplines. I have a challenge-driven attitude towards science. 
+My favorite pieces of (shareable) research. My previous research interests lie in ecological modeling with geo-spatial information, machine learning, and in material science physics for ice sheet flow applications. I am proud of the accomplishments I have made in these areas and am hungry to learn more about new research in data science that sparks my fascinations.  
 
 ---
 
