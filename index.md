@@ -55,7 +55,7 @@ Ice physics and flow processes in ice sheets. Funded by the Rose Undergraduate R
 
 <img src="images/mcmc.png?raw=true" class="center"/>
 
-**Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-DS-programs">MCMC</a></ins>**. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with MCMC parameter search, without (left) and with (right) a prior distribution.
+**Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/lwMCMC">MCMC</a></ins>**. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with MCMC parameter search, without (left) and with (right) a prior distribution.
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of laboratory measurement. 
 
