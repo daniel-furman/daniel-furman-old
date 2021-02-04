@@ -2,7 +2,7 @@
 
 ---
 
-My favorite pieces of (shareable) research. My previous research interests lie in ecological modeling with geo-spatial information, machine learning, and in material science physics for ice sheet flow applications. I am proud of the accomplishments I have made in these areas and am hungry to learn more about new research in data science that sparks my fascinations.  
+My favorite pieces of (shareable) research. My previous interests include computational ecology (machine learning with geo-spatial information) and experimental geophysics (for ice sheet flow applications with mineral physics methods). I am also excited to learn more about new research in ethical data science for social good, as well as in environmental systems.   
 
 ---
 
