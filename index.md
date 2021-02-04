@@ -12,7 +12,7 @@ My favorite pieces of (shareable) research.
 
 ---
 
-Computational ecology for biodiversity conservation associated with Harvey Mudd College. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Conference Publications: [SICB Meeting Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting Talk</a> (2019).
+Computational ecology for biodiversity conservation, associated with Harvey Mudd College. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a>. Conference Publications: [SICB Meeting Poster and Abstract](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) (2021) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting Talk</a> (2019).
 
 ---
 
@@ -40,7 +40,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 ---
 
-Ice physics and flow processes for ice sheets, research associated with the University of Pennsylvania. Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. Publications (senior thesis): <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>, alongside a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF's website.
+Ice physics and flow processes for ice sheets, associated with the University of Pennsylvania. Funded through the Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a>. Publications (senior thesis): <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>, alongside a <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a> via CURF's website.
 
 ---
 
