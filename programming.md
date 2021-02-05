@@ -1,6 +1,9 @@
 ## Software:
 
+---
+
 * Lightweight MCMC algorithm for Python [`lwMCMC`](https://pypi.org/project/lwMCMC/)
+     * new PyPi softwares are in the works
 
 
 ## Programming Competency Write-up:
