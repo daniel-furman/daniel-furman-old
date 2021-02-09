@@ -69,7 +69,7 @@ Mineral physics research aimed at better understanding the physics behind ice sh
 
 ---
 
-* [Hobbies](activities.md): surfing, making music, [reading](reading.md), rock climbing, [programming](programming.md)
+* [Hobbies](activities.md): surfing, playing music, [reading](reading.md), climbing
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer with Wildlife Works Company (see [blog publication](psr_redd_blog.pdf))
 * [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainability Review, "The Indirect Hand of Man"
