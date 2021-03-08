@@ -2,7 +2,7 @@
 
 ---
 
-* [Lightweight MCMC `ltwMCMC`](https://pypi.org/project/lwMCMC/): an object-oriented parameter sampling class. **Bayesian inference** powered by NumPy. 
+* [`ltwMCMC`](https://pypi.org/project/lwMCMC/): Lightweight MCMC in Python3, an object-oriented parameter sampling class for Bayesian modeling inference.
 
 * RecursiveFeatureSelector (to come...)
 
