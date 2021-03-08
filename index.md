@@ -53,8 +53,6 @@ Mineral physics experimentation into the underlying physics of ice sheet flow. F
 
 **Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">picture of our experimental die</a>).
 
-<img src="images/mcmc.png?raw=true" class="center"/>
-
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of laboratory measurement. 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
