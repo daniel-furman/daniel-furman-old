@@ -12,7 +12,7 @@ My favorite pieces of (shareable) research.
 
 ---
 
-Ecological modeling research for effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference publications: [SICB Meeting ('21)](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting ('19)</a>.
+Ecological modeling research supporting effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference publications: [SICB Meeting ('21)](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting ('19)</a>.
 
 ---
 
