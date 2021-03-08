@@ -12,7 +12,7 @@ My favorite pieces of (shareable) research.
 
 ---
 
-Ecological modeling research supporting effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference publications: [SICB Meeting ('21)](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq) and a <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting ('19)</a>.
+Ecological modeling research supporting effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference publications: [SICB Meeting ('21)](https://sicbannualmeeting.pathable.co/meetings/virtual/b5bEwkdpSNA3kaCLq), <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1_lLy6dBbrB0ThanvAZXhrh6nIyBOMxnv/view?usp=sharing">SCCUR Meeting ('19)</a>.
 
 ---
 
@@ -40,7 +40,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 ---
 
-Mineral physics experimentation into the underlying physics of ice sheet flow. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and UPenn. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a>.
+Mineral physics experimentation into the underlying physics of ice sheet flow. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and UPenn. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a>.
 
 ---
 
@@ -48,20 +48,17 @@ Mineral physics experimentation into the underlying physics of ice sheet flow. F
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Map</a></ins>**. Rates for ice densification constructed for firn creep (233 K) based on my experimentally constrained rate model.
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rates for ice densification constructed for firn creep (233 K) based on my experimentally constrained rate model.
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Experimental Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">see experimental die</a>).
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">picture of our experimental die</a>).
 
 <img src="images/mcmc.png?raw=true" class="center"/>
-
-**Fig. 5. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/lwMCMC">MCMC</a></ins>**. Particle decay <img src="https://render.githubusercontent.com/render/math?math=R(t)"> simulation: <img src="https://render.githubusercontent.com/render/math?math=R(t) = A + B e^{-\lambda t}"> model with MCMC parameter search, without (left) and with (right) a prior distribution.
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of laboratory measurement. 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
-
 
 <br>
 
