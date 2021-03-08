@@ -48,10 +48,11 @@ Mineral physics experimentation into the underlying physics of ice sheet flow. F
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rates for ice densification constructed for firn creep (233 K) based on my experimentally constrained rate model.
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rates for ice densification constructed for firn creep (233 K) based on an experimentally constrained rate model for ice sheets and glaciers (see above).
+
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">picture of our experimental die</a>).
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">link to laboratory pictures</a>).
 
 **Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of laboratory measurement. 
 
@@ -74,7 +75,3 @@ Mineral physics experimentation into the underlying physics of ice sheet flow. F
 * PADI Rescue Diver, AQF CPR, First Aid, and O2 certifications
 
 ---
-
-
-
-
