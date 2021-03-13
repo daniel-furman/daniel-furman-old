@@ -1,8 +1,11 @@
 title: Daniel Furman 
 logo: "/images/logo.png?raw=true" 
 description: > 
-  Interested in environmental systems and green technologies. <a href="https://daniel-furman.github.io">Research</a>. <a href="https://daniel-furman.github.io/Furman_resume.pdf">Resume</a>. <a href="https://daniel-furman.github.io/programming.html">Software</a>. <a href="https://daniel-furman.github.io/reading.html">Reading</a>.  
-  <br><br>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/daniel-furman-702b02160/">View My LinkedIn Profile</a><br>
+  A challenge-driven scientist interested in tech. <a href="https://daniel-furman.github.io">Research Projects</a>.
+  <a href="https://daniel-furman.github.io/Furman_resume.pdf">Resume</a>.
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/daniel-furman-702b02160/">LinkedIn Profile</a>.
+  <a href="https://daniel-furman.github.io/programming.html">Software</a>.
+ 
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
