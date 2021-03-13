@@ -65,10 +65,11 @@ Mineral physics experimentation into the underlying physics of ice sheet flow. F
 
 ---
 
-* [Hobbies](activities.md): surfing, music, [reading](reading.md), climbing
+* [Hobbies](activities.md) include surfing, climbing, diving, camping, and playing music
+* [Reading List](reading.md) - I love to read!
+* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainability Review, "The Indirect Hand of Man"
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer with Wildlife Works Company (see [blog publication](psr_redd_blog.pdf))
-* [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainability Review, "The Indirect Hand of Man"
 *	Volunteer with Star Paws Rescue and the Marine Mammal Center
 *	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
 *	Member of Penn Varsity (D1) Golf Team ('16-17)
