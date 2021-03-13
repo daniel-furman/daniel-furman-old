@@ -2,11 +2,13 @@
 
 ---
 
-My favorite pieces of (shareable) research.
+My favorite projects and shareable research.
 
 ---
 
-### Ensemble Climate Projections
+### Ensemble Climate Projections of Species Distributions
+
+(Scientific Research)
 
 *What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species?*
 
@@ -34,7 +36,9 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Material Science of Ice Densification
+### Uncovering the Material Science of Ice Densification
+
+(Scientific Research)
 
 *How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
 
