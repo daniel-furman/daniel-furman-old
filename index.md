@@ -8,7 +8,7 @@ My favorite projects and shareable research.
 
 ### Ensemble Climate Projections of Species Distributions
 
-(Scientific Research)
+*Scientific Research*
 
 *What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species?*
 
@@ -38,7 +38,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 ### Uncovering the Material Science of Ice Densification
 
-(Scientific Research)
+*Scientific Research*
 
 *How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
 
