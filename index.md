@@ -2,7 +2,7 @@
 
 ---
 
-Short description of my favorite research projects. 
+Short descriptions of my previous research projects. 
 
 ---
 
