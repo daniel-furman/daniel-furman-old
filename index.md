@@ -6,7 +6,7 @@ Short descriptions of my previous research projects.
 
 ---
 
-### ML Modeling for Speices Conservation
+### Machine Learning Frameworks for Species Conservation
 
 *Research Question* : How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
 
@@ -32,7 +32,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Material Physics of Ice Densification
+### Ice Material Physics Experimentation
 
 *Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
