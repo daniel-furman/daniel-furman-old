@@ -10,11 +10,9 @@ My favorite projects and shareable research.
 
 *Scientific Research*
 
-*What can we learn about jointly projecting range models of symbiotic species to future climates? How will climate change impact geographic overlap between Mojave Desert species?*
+* Research Questions: What can we learn about jointly predicting future geographic ranges for symbiotic species? How will climate change impact the Mojave Desert ecosystem?
 
----
-
-Ecological modeling research supporting effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference Proceedings: SICB Meeting ('21), SCCUR Meeting ('19). <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
+* Overview: Ecological modeling for effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference Proceedings: SICB Meeting ('21), SCCUR Meeting ('19). <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
 
 ---
 
@@ -40,11 +38,9 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 *Scientific Research*
 
-*How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
+* Research Question: How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?*
 
----
-
-Mineral physics experimentation into the underlying physics of ice sheet flow. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and UPenn. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a>.
+* Overview: Mineral physics experimentation into ice sheet flow physics, particularly during ice densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and UPenn. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">Project Description</a>.
 
 ---
 
