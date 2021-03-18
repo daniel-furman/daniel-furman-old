@@ -6,9 +6,9 @@
 
 *Scientific Research*
 
-*Overview* | Species distribution modeling for effective biodiversity conservation in the Mojave Desert and beyond. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and Harvey Mudd College. Conference Proceedings: SICB Meeting '21 (poster and abstract), SCCUR Meeting '19 (talk presentation). <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
+*Research Question* : How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
 
-*Research Question* | How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
+*Overview* : Species distribution modeling for effective biodiversity conservation in the Mojave Desert and beyond. Funded through NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and Harvey Mudd College. Conference Proceedings: SICB Meeting '21 (poster and abstract), SCCUR Meeting '19 (talk presentation). <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
 
 ---
 
@@ -34,9 +34,9 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 *Scientific Research*
 
-*Overview* | Mineral physics experimentation into ice sheet flow physics, particularly during ice densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and the University of Pennsylvania. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Description</a>.
+*Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
-*Research Question* | How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
+*Overview* : Mineral physics experimentation into ice sheet flow physics, particularly during ice densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and the University of Pennsylvania. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Description</a>.
 
 ---
 
