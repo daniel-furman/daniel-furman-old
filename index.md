@@ -2,13 +2,11 @@
 
 ---
 
-My favorite shareable research projects. 
+Short description of my favorite research projects. 
 
 ---
 
 ### Ensemble Species Range Projections
-
-*Scientific Research*
 
 *Research Question* : How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
 
@@ -35,8 +33,6 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <br><br>
 
 ### The Material Physics of Ice Densification
-
-*Scientific Research*
 
 *Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
