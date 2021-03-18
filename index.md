@@ -6,7 +6,7 @@ My favorite shareable research projects.
 
 ---
 
-### Ensemble Climate Projections
+### Ensemble Species Range Projections
 
 *Scientific Research*
 
@@ -34,13 +34,13 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Uncovering the Material Science of Ice Densification
+### The Material Physics of Ice Densification
 
 *Scientific Research*
 
 *Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
-*Overview* : Mineral physics experimentation into ice sheet flow physics, particularly during ice densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and the University of Pennsylvania. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Description</a>.
+*Overview* : Mineral physics experimentation into ice sheet flow physics, particularly during densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and the University of Pennsylvania. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Description</a>.
 
 ---
 
