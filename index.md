@@ -6,7 +6,7 @@ Short bios of my favorite research projects.
 
 ---
 
-### Machine Learning Frameworks for Species Conservation
+### Ecological Conservation via Machine Learning
 
 *Research Question* : How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
 
