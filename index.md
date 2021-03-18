@@ -10,7 +10,7 @@ My favorite projects and shareable research.
 
 *Scientific Research*
 
-*Research Questions* What can we learn about jointly predicting range shifts for symbiotic species under future climate scenarios? How will climate change impact geographic overlap among species in the Mojave Desert ecosystem?
+*Research Questions* : What can we learn about jointly predicting range shifts for symbiotic species under future climate scenarios? How will climate change impact geographic overlap among species in the Mojave Desert ecosystem?
 
 *Overview* : Ecological modeling for effective biodiversity conservation in the Mojave Desert. Funded through the NSF Award #1757952, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://www.hmc.edu/biology/faculty-staff/stephen-c-adolph/">Stephen Adolph</a> and HMC. Conference Proceedings: SICB Meeting ('21), SCCUR Meeting ('19). <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
 
