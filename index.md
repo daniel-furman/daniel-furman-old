@@ -1,4 +1,4 @@
-# Daniel Furman's Portfolio
+# Portfolio
 
 ---
 
