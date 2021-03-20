@@ -20,8 +20,6 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-<p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\P(class) = \P(\overline{rf,et,lgbm})"> </p>
-
 **Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to streamline the modeling pipeline in Python. 
 
 <img src="images/auc.png?raw=true"/>
