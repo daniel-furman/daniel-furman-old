@@ -2,7 +2,7 @@
 
 ---
 
-A collection of write ups for my previous research projects.
+A collection of write-ups for my previous research projects (aka short bios).
 
 ---
 
@@ -39,7 +39,7 @@ Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://
 
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). The experiments were conducted across different grain sizes, revealing the influence of grain size on the rate.
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). Notice the key feature of our experimental methodology, that the compaction tests were conducted across different average grain size.
 
 <img src="images/map.png?raw=true"/>
 
