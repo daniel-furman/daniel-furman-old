@@ -10,7 +10,11 @@ Short bios of my previous research projects.
 
 *Research Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an inconic pair of symbiotic species in the Mojave?
 
-*Overview* : Ecological modeling research funded through the NSF REU Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>. Full Title: Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
+*Overview* : Ecological modeling research funded through the NSF REU Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19. Full Title: Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
+
+* <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>.
+* <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 
 ---
 
@@ -24,15 +28,18 @@ Short bios of my previous research projects.
 
 **Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) for the Desert Night Lizard's near-current species distribution model above. 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
 ### The Material Science of Ice Densificaiton in Nature (UPenn Experimental Geophysics Laboratory, Undergrad Senior Thesis)
 
 *Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
-*Overview* : Three-year geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>. Full Title: The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding
+*Overview* : Three-year geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. Full Title: The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding
+
+* <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>.
+*  <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>.
+* <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
+* <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
 ---
 
@@ -46,8 +53,7 @@ Short bios of my previous research projects.
 
 **Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice creep during densification at 233 K, a common terrestrial ice sheet temperatures. We developped the semi-empirical rate model above, with newly applied power law relationship between rate and grain size constrained with our above experimental results. 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
+
 
 <br>
 
