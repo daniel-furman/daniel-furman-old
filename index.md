@@ -2,11 +2,11 @@
 
 ---
 
-Short bios of my favorite research projects.
+A collection of write ups for my previous research projects.
 
 ---
 
-### Ecological Conservation via Machine Learning
+### Species Conservation through Geospatial ML Frameworks (Harvey Mudd DS REU '19)
 
 *Research Question* : How will climate change shift geographic overlap between symbiotic species in southwestern desert ecosystems?
 
@@ -24,33 +24,30 @@ Short bios of my favorite research projects.
 
 **Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation-set performance for the above species distribution model. 
 
-
-**Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections/blob/main/pca_benchmark.R">Symbiotic Species Clustering</a></ins>**. Similarity metrics on clusters and alpha hulls (i.e., via analyses with Jaccard metrics).
-
 Corresponding **<ins><a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/Python-species-distribution-modeling/">Python tutorial</a></ins>** on species distribution modeling.<br><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 <br><br>
 
-### Ice Material Physics Experimentation
+### The Material Science of Ice Densificaiton in Nature (UPenn Experimental Geophysics Laboratory, Undergrad Senior Thesis)
 
 *Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
 
-*Overview* : Mineral physics experimentation into ice sheet flow physics, particularly during densification at the near-surface. Funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant, a collaboration with <a target="_blank" rel="noopener noreferrer" href="https://earth.sas.upenn.edu/people/david-l-goldsby">David Goldsby</a> and the University of Pennsylvania. <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Description</a>.
+*Overview* : Three-year geophysics project funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. This work was a collaboration with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab. 
+
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>.
 
 ---
+
+<img src="images/exp-interv.png?raw=true"/>
+
+**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). The experiments were conducted across different grain sizes, revealing the influence of grain size on the rate.
 
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rates for ice densification constructed for firn creep (233 K) based on an experimentally constrained rate model for ice sheets and glaciers (see above).
-
-<img src="images/exp-interv.png?raw=true"/>
-
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. Firn densification rate testing across varying grain size (<a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">link to laboratory pictures</a>).
-
-**Also see: <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Multiple Week Compaction</a></ins>**. Densification testing across multiple weeks, approaching the lower limit of laboratory measurement. 
+**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice creep during densification at 233 K, a common terrestrial ice sheet temperatures. We developped the semi-empirical rate model above, with newly applied power law relationship between rate and grain size constrained with our above experimental results. 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
