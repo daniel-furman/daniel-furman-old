@@ -20,17 +20,17 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to streamline the modeling pipeline in Python. 
+**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to help generate these predictions in a streamlined, object-oriented manner. 
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) for the Desert Night Lizard's near-current species distribution model above. 
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) for the Desert Night Lizard's near-current species distribution model (ie. corresponding to the above geospatial prediction).  
 
 <br><br>
 
-### The Material Science of Ice Densificaiton in Nature (UPenn Experimental Geophysics Laboratory, Undergrad Senior Thesis)
+### The Material Science of Ice Densificaiton (UPenn Experimental Geophysics Laboratory, Undergraduate Senior Thesis)
 
-*Research Question* : How does grain size, strain state, and microstructure influence the rheological behavior of ice compaction among glaciers and ice sheets?
+*Research Question* : How do the naturally variable properties of grain size, strain state, and microstructure influence the behavior of ice compaction among glaciers and ice sheets?
 
 *Overview* : Three-year geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. Full Title: The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding
 
