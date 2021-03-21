@@ -28,7 +28,7 @@ Short bios of my previous research projects.
 
 <br><br>
 
-### The Material Science of Ice Densificaiton (UPenn Experimental Geophysics Laboratory, Undergraduate Senior Thesis)
+### The Material Science of Ice Densificaiton (UPenn Senior Thesis)
 
 *Research Question* : How do the naturally variable properties of grain size, strain state, and microstructure influence the behavior of ice compaction among glaciers and ice sheets?
 
