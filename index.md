@@ -8,7 +8,7 @@ Short bios of my previous research projects.
 
 ### Species Conservation via Machine Learning
 
-Scientific Research / Geospatial Data Science / Harvey Mudd DS REU '19
+*Scientific Research / Geospatial Data Science / Harvey Mudd DS REU '19*
 
 *Motivating Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an iconic, symbiotic pair of Mojave Desert species?
 
