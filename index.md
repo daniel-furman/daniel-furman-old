@@ -60,13 +60,14 @@ Scientific Research / Experimental Geophysics / UPenn Senior Thesis
 
 ---
 
-* [Hobbies](activities.md) include surfing, climbing, diving, camping, and playing music
-* [Reading List](reading.md) - I love to read!
+* [Hobbies](activities.md)
+* [Reading List](reading.md)
+
 * [Published](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1043&context=psr) in Penn Sustainability Review, "The Indirect Hand of Man"
 * Volunteer with Philadelphia Water at Cook-Wissahickon School 
 * Volunteer with Wildlife Works Company (see [blog publication](psr_redd_blog.pdf))
 *	Volunteer with Star Paws Rescue and the Marine Mammal Center
 *	Sigma Alpha Mu (2x brotherhood chair, '17-18 and '19-20)
-*	Member of Penn Varsity (D1) Golf Team ('16-17)
-* PADI Rescue Diver, AQF CPR, First Aid, and O2 certifications
+*	UPenn D1 Golf ('16-17)
+* PADI Certified Rescue Diver | AQF CPR, First Aid, and O2 safety certifications
 
