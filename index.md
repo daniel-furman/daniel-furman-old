@@ -20,7 +20,7 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to help generate these predictions in a streamlined, object-oriented manner. 
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to help generate these predictions in a streamlined, object-oriented manner. 
 
 <img src="images/auc.png?raw=true"/>
 
@@ -46,12 +46,12 @@ Short bios of my previous research projects.
 
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig. 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). Notice the key feature of our experimental methodology, our compaction tests were conducted on samples with uniform grain size (particle size), with grains varying between 5 to 550 micrometers in radius. 
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). Notice the key feature of our experimental methodology, our compaction tests were conducted on samples with uniform grain size (particle size), with grains varying between 5 to 550 micrometers in radius. 
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig. 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice creep during densification at 233 K, a common terrestrial ice sheet temperatures. We developped the semi-empirical rate model above, with newly applied power law relationship between rate and grain size constrained with our above experimental results. 
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice creep during densification at 233 K, a common terrestrial ice sheet temperatures. We developped the semi-empirical rate model above, with newly applied power law relationship between rate and grain size constrained with our above experimental results. 
 
 <br>
 
