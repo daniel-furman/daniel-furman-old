@@ -8,7 +8,7 @@ Short bios of my previous research projects.
 
 ### Species Conservation via Geospatial ML (Harvey Mudd DS '19)
 
-*Topics* : Research / Data Science / Geospatial Machine Learning / Ecological Modeling
+*Topics* : Research / Data Science / Geospatial Machine Learning 
 
 *Research Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an iconic pair of symbiotic species in the Mojave?
 
@@ -32,7 +32,7 @@ Short bios of my previous research projects.
 
 ### The Material Science of Ice Densificaiton (UPenn Senior Thesis)
 
-*Topics* : Research / Experimental Geophysics / Material Science Modeling
+*Topics* : Research / Experimental Geophysics / Ice Material Science 
 
 *Research Question* : How do the naturally variable properties of grain size, strain state, and microstructure influence the behavior of ice compaction among glaciers and ice sheets?
 
