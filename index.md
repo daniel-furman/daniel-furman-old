@@ -18,8 +18,6 @@ Short bios of my previous research projects.
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 
----
-
 <img src="images/range.png?raw=true"/> 
 
 **Fig. 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset selection among soft voters composed of up to 6 models (BRTs, RF, and other tree-based ML classifiers). I developped the PySDMs package to help generate these predictions in a streamlined, object-oriented manner. 
@@ -30,7 +28,9 @@ Short bios of my previous research projects.
 
 <br><br>
 
-### The Material Science of Ice Densificaiton 
+---
+
+### <ins>The Material Science of Ice Densificaiton</ins>
 
 *Overview* : Scientific Research / Experimental Geophysics / UPenn Senior Thesis
 
@@ -43,7 +43,6 @@ Short bios of my previous research projects.
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/Furman-and-Goldsby">Code Repository</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/Furman-and-Goldsby/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
----
 
 <img src="images/exp-interv.png?raw=true"/>
 
