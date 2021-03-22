@@ -6,13 +6,13 @@ Short bios of my previous research projects.
 
 ---
 
-### Species Conservation via Machine Learning
+### <ins> Species Conservation via Machine Learning </ins>
 
 *Overview* : Scientific Research / Geospatial Data Science / Harvey Mudd DS REU '19*
 
 *Motivating Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an iconic, symbiotic pair of Mojave Desert species?
 
-*More Info* : Mathematical ecology project funded through the NSF REU Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Full Title: Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+Mathematical ecology project funded through the NSF REU Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Full Title: Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a>
@@ -36,7 +36,7 @@ Short bios of my previous research projects.
 
 *Research Question* : How does ice sheet grain size, strain state, and microstructure influence rates of ice densification?
 
-*More Info* : Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. Full Title: The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
+Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. Full Title: The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>
