@@ -10,7 +10,7 @@ Short bios of my previous research projects.
 
 Scientific Research / Geospatial Data Science / Harvey Mudd DS REU '19
 
-*Motivating Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an iconic pair of symbiotic species in the Mojave?
+*Motivating Question* : How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards, an iconic, symbiotic pair of Mojave Desert species?
 
 *Overview* : Mathematical ecology project funded through the NSF REU Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Full Title: Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
 
