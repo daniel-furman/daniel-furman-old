@@ -1,7 +1,5 @@
 # Portfolio
 
-<img src="images/logo2.png?raw=true"/> 
-
 ---
 
 Short bios of my previous research projects. 
