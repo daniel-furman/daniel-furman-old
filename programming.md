@@ -1,11 +1,11 @@
-## Software:
+## Software
 
 ---
 
-* [ltwMCMC](https://pypi.org/project/lwMCMC/): A "lightweight MCMC" class for Python3, `ltwMCMC` enables object-oriented parameter sampling for Bayesian inference. See documentation examples for use-cases with models from experimental geophysics and physics. 
+* [ltwMCMC](https://pypi.org/project/lwMCMC/): A "lightweight" implementation of Markov Chain Monte Carlo in Python, `ltwMCMC` is an object-oriented parameter sampling class for Bayesian modeling inference. See the GitHub documentation for use-case examples. 
 
 * RecFeatureSelect (to come)
 
 * PySDMs (to come)
 
-* SurfCrowdPredictor (to come)
+* SurfCrowds(to come)
