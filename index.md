@@ -8,11 +8,11 @@ Short bios of my previous research projects.
 
 ### <ins> Mojave Species Conservation via Geospatial ML </ins>
 
-*Overview:* Ecology / Geospatial ML / Harvey Mudd DS REU '19
+*Overview:* Geospatial ML / Harvey Mudd DS REU '19
 
-*Research Question:* How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards?
+*Research Question:* How may climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
-*Outline:* Mathematical ecology project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
+*Outline:* Ecological modeling project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
 
 *Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models
 
@@ -34,9 +34,9 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
-*Overview:* Geophysics / Experimental Material Science / UPenn Senior Thesis
+*Overview:* Experimental Geophysics / UPenn Senior Thesis
 
-*Research Question:* How does ice sheet grain size, strain state, and microstructure influence rates of ice densification?
+*Research Question:* How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
 
 *Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant
 
@@ -49,10 +49,10 @@ Short bios of my previous research projects.
 
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data are laboratory steady-state creep rates during ice densification, representing the final results of three-years worth of lab testing. Notice the key feature of our experimental methodology: our compaction tests were conducted on samples with uniform grain size (particle size) with grains varying between 5 to 550 micrometers in radius. 
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data are laboratory steady-state creep rates during ice densification, the final results of three-years of compaction tests. Notice the key feature of our experimental methodology: our samples were synthesized to uniform average grain size (i.e., the individual ice particles) from 5 to 550 micrometers in radius. 
 
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice creep during densification at 233 K, a common terrestrial ice sheet temperatures. We developped the semi-empirical rate model above, with newly applied power law relationship between rate and grain size constrained with our above experimental results. 
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice densification at 233 K, a common interior terrestrial ice sheet temperature. We developped the semi-empirical rate model above, with a newly applied power law relationship between rate and grain size as constrained by our experimental results. 
