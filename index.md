@@ -8,9 +8,9 @@ Short bios of my previous research projects.
 
 ### <ins> Mojave Species Conservation via Geospatial ML </ins>
 
-*Overview:* Ecology / Geospatial ML / Harvey Mudd DS REU '19
-*Research Question:* How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards?
-*Outline:* Mathematical ecology project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
+*Overview:* Ecology / Geospatial ML / Harvey Mudd DS REU '19<br>
+*Research Question:* How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards?<br>
+*Outline:* Mathematical ecology project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19<br>
 *Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a><br>
@@ -31,10 +31,10 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
-*Overview:* Geophysics / Experimental Material Science / UPenn Senior Thesis
-*Research Question:* How does ice sheet grain size, strain state, and microstructure influence rates of ice densification?
-*Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant.
-*Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
+*Overview:* Geophysics / Experimental Material Science / UPenn Senior Thesis<br>
+*Research Question:* How does ice sheet grain size, strain state, and microstructure influence rates of ice densification?<br>
+*Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant.<br>
+*Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.<br>
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>
