@@ -8,7 +8,7 @@ Short bios of my previous research projects.
 
 ### <ins> Mojave Species Conservation via Geospatial ML </ins>
 
-*Overview*: Ecology / Geospatial ML / Harvey Mudd DS REU '19
+*Overview:* Ecology / Geospatial ML / Harvey Mudd DS REU '19
 
 *Research Question*: How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards?
 
