@@ -12,7 +12,10 @@ Short bios of my previous research projects.
 
 *Research Question:* How will climate change shift the geographic overlap between Joshua trees and Desert Night Lizards?
 
-*Outline:* Mathematical ecology project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Full Title: *Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models*. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+*Outline:* Mathematical ecology project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+
+
+*Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models. 
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a>
@@ -36,17 +39,19 @@ Short bios of my previous research projects.
 
 *Research Question:* How does ice sheet grain size, strain state, and microstructure influence rates of ice densification?
 
-*Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant. Full Title: *The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding*.
+*Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant.
+
+*Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research">Code Repository</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ice-densification-research/blob/master/Firn_notebook.ipynb">Online Notebook</a>
 
-
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent laboratory densification rates for ice compaction at the steady state (aka, the final results of three-years worth of lab testing). Notice the key feature of our experimental methodology, our compaction tests were conducted on samples with uniform grain size (particle size), with grains varying between 5 to 550 micrometers in radius. 
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data are laboratory steady-state creep rates during ice densification, representing the final results of three-years worth of lab testing. Notice the key feature of our experimental methodology: our compaction tests were conducted on samples with uniform grain size (particle size) with grains varying between 5 to 550 micrometers in radius. 
+
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
