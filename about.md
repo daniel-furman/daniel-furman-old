@@ -1,4 +1,6 @@
-My interests - bullet point form: 
+#### My interests - bullet point form: 
+
+---
 
 * [Reads](reading.md): Everybody Lies, Universal: A Guide to the Cosmos, Sapiens, Seven Brief Lessons on Physics
 * Hobbies: surfing, playing guitar, rock climbing, backpacking, and OSS development (see my PyPi)
