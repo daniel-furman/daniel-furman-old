@@ -1,4 +1,10 @@
-#### My interests - bullet point form: 
+## About 
+
+---
+
+#### A challenge-driven learner with a passion for data science. In May 2020, I graduated with research distinction from the University of Pennsylvania as an environmental science major and mathematics minor. 
+
+* DS motto: “More data beats better models, better data beats more data, and eighty percent of the outcomes result from twenty percent of the inputs.”
 
 ---
 
