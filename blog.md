@@ -1,4 +1,4 @@
-## Daniel's Blog
+## Blog(ish)
 
 ---
 
