@@ -2,7 +2,7 @@
 
 ---
 
-A blog about my thoughts, book reviews, and data science projects. 
+A blog featuring my evolving thoughts, book reviews, and data/software endeavors. 
 
 ---
 
