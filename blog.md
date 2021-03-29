@@ -1,8 +1,7 @@
-## My Blog(ish)
+## My Blog
 
----
 
-A collection of writings: my evolving thoughts, book reviews, and data/software endeavors. 
+A collection of writings (blogish) about a variety of personal thoughts, book reviews, and my data science/software dev endeavors. 
 
 ---
 
