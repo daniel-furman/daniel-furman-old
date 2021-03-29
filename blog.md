@@ -2,6 +2,7 @@
 A collection of my writings on technology/science and my data science/software development projects. 
 
 <br>
+
 ---
 
  ### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/psr_redd_blog.pdf) <br>
