@@ -1,5 +1,5 @@
 
-A collection of my writings on technology/science and my data science/software development projects. 
+A collection of writing on technology, science, machine learning, software dev, and more!
 
 <br>
 
