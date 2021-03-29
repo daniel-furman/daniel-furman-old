@@ -6,7 +6,7 @@ A blog about my thoughts, book reviews, and data science projects.
 
 ---
 
-#### [Experimental ice compaction: project summary - Summer 2018](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction)
+#### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships - Summer 2018](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction)
 * In conjuction with the Penn Ice Physics Lab
 * *Topics*: Scientific Research / Experimental Geophysics / Penn Senior Thesis
 
