@@ -10,6 +10,6 @@ DS motto: “More data beats better models, better data beats more data, and eig
 
 ### <ins> Articles
 
-#### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/psr_redd_blog.pdf) 
-* Fall 2018, in conjuction with the Wildlife Works Company).
+#### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability - Fall 2018](daniel-furman.github.io/psr_redd_blog.pdf) 
+* In conjuction with the Wildlife Works Company
 * *Topics*: The Environment / REDD+ Investments
