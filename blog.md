@@ -1,5 +1,5 @@
 
-A collection of writing on technology, science, machine learning, software dev, and more!
+A collection of writings loosely focused on technology and science. 
 
 <br>
 
