@@ -1,5 +1,4 @@
-## My Blog
-
+## Blog
 
 A collection of writings (blogish) about a variety of personal thoughts, book reviews, and my data science/software dev endeavors. 
 
