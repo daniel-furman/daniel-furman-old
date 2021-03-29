@@ -6,10 +6,10 @@ A collection of writings (blogish) about a variety of personal thoughts, book re
 
 
 ### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability - Fall 2018](daniel-furman.github.io/psr_redd_blog.pdf) <br>
-In conjuction with the Wildlife Works Company. *Topics*: Blog article / The Environment / REDD+ Investments.
+*Topics*: Blog article / The Environment / REDD+ Investments / Wildlife Works Company 
 
 ### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships - Summer 2018](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction) <br>
-In conjuction with the Penn Ice Physics Lab. *Topics*: Scientific Research / Experimental Geophysics / Penn Senior Thesis
+*Topics*: Scientific Research / Experimental Geophysics / Penn Senior Thesis / Penn Ice Physics Lab
 
 ---
 
