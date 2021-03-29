@@ -1,8 +1,8 @@
-## Blog(ish)
+## My Blog(ish)
 
 ---
 
-A blog featuring my evolving thoughts, book reviews, and data/software endeavors. 
+A collection of writings: my evolving thoughts, book reviews, and data/software endeavors. 
 
 ---
 
@@ -14,5 +14,11 @@ A blog featuring my evolving thoughts, book reviews, and data/software endeavors
 * In conjuction with the Wildlife Works Company
 * *Topics*: Blog article / The Environment / REDD+ Investments
 
-#### Planned: Book review for Super Forecasting | Surf crowd machine learning project blog and pypi package | Magazine Review MIT Tech The progress issue March/April 2021
+---
+
+Planned: 
+
+* Book review for Super Forecasting
+* Surf crowd machine learning project
+* Magazine Review MIT Tech: The progress issue March/April 2021, the food issue
 
