@@ -1,15 +1,15 @@
 
-A collection of my writing features including technology/science book/magazine reviews and my data science/software dev projects. 
+A collection of my writings on technology/science and my data science/software development projects. 
 
 ---
 
  ### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/psr_redd_blog.pdf) <br>
-Fall 2018 | *Blogging / The Environment / REDD+ Investments / Wildlife Works Company 
+*Fall 2018 | Blogging / The Environment / REDD+ Investments / Wildlife Works Company*
 
 ---
 
  ### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction) <br>
-Summer 2018 | *Scientific Research / Experimental Geophysics / Penn Senior Thesis / Penn Ice Physics Lab
+*Summer 2018 | *Scientific Research / Experimental Geophysics / Penn Senior Thesis / Penn Ice Physics Lab*
 
 ---
 
