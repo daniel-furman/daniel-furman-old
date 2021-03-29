@@ -1,8 +1,6 @@
 
 A collection of writings loosely focused on technology and science. 
 
-<br>
-
 ---
 
  ### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/psr_redd_blog.pdf) <br>
