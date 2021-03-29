@@ -2,7 +2,7 @@
 
 ---
 
-#### A challenge-driven learner with a passion for data science. In May 2020, I graduated with research distinction from the University of Pennsylvania as an environmental science major and mathematics minor. 
+A challenge-driven learner with a passion for data science. In May 2020, I graduated with research distinction from the University of Pennsylvania as an environmental science major and mathematics minor. 
 
 ---
 
