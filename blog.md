@@ -9,7 +9,7 @@ A collection of my writings on technology/science and my data science/software d
 ---
 
  ### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction) <br>
-*Summer 2018 | *Scientific Research / Experimental Geophysics / Penn Senior Thesis / Penn Ice Physics Lab*
+*Summer 2018 | Scientific Research / Experimental Geophysics / Penn Senior Thesis / Penn Ice Physics Lab*
 
 ---
 
