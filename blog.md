@@ -14,7 +14,5 @@ A blog featuring my evolving thoughts, book reviews, and data/software endeavors
 * In conjuction with the Wildlife Works Company
 * *Topics*: Blog article / The Environment / REDD+ Investments
 
-#### Planned: book review for Super Forecasting
-
-#### Planned: surf crowd machine learning project blog and pypi package
+#### Planned: Book review for Super Forecasting | Surf crowd machine learning project blog and pypi package | Magazine Review MIT Tech The progress issue March/April 2021
 
