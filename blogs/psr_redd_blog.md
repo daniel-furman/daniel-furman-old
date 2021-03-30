@@ -1,6 +1,6 @@
 ## Will the 21st century see the restoration and rewilding of our forests?: A context for conservation and sustainability
 
-Innovative solutions to the climate crisis are everywhere, from California to Indonesia (see Figure 1 below), and economics are increasingly driving their implementation. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, measuring progress for exciting sustainability initiatives makes me more hopeful for the future.
+Innovative solutions to the climate crisis are everywhere, from California to Indonesia. Triple bottom line economics is an exciting framework for investments. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, examining the progress on sustainability initiatives makes me more hopeful for the future.
 
 ---
 
@@ -25,4 +25,5 @@ Meanwhile, the International Monetary Fund estimated that the fossil fuel indust
 *Bib*: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
 *Figure 1*: On assignment at the REDD+ site in Borneo. Notice my companion (above me).
+
 <img src="images/redd_blog.png?raw=true"/> 
