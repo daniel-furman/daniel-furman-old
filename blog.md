@@ -11,7 +11,7 @@ Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction)
+### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](hblogs/exp_ice_blog.md)
  
 Summer 2018 - Scientific Research / Experimental Geophysics / Penn Ice Physics Lab
 
