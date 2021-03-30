@@ -1,6 +1,6 @@
 ## Will the 21st century see the restoration and rewilding of our forests?: A context for conservation and sustainability
 
-Innovative solutions to the climate crisis are everywhere, from California to Indonesia, and economics are increasingly driving their implementation. In a topic that invokes helplessness, progress on sustainability initiatives make me hopeful.
+Innovative solutions to the climate crisis are everywhere, from California to Indonesia (see Figure 1 below), and economics are increasingly driving their implementation. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, measuring progress for exciting sustainability initiatives makes me more hopeful for the future.
 
 ---
 
@@ -21,6 +21,8 @@ Sustainable land use could impart a similar magnitude of environmental impact in
 Wildlife Works places an emphasis on the upliftment of marginalized communities in developing nations. More often than not, these types of remote populations are owned by the resource-extraction industry, responsible for degrading our forests beyond the capacity to restore. The project I worked on was also aimed to conserve particular flora and fauna in the area, such as the East Bornean orangutan (see top left of picture). Other endangered species included six extremely vulnerable IUCN-designated mammalian species, four species of hornbill and three other large birds, and 295 species endemic trees in the project accounting area alone.  
  
 Meanwhile, the International Monetary Fund estimated that the fossil fuel industry received $5.3 trillion in government subsidies in 2015 alone. These subsidies included indirect and direct “health costs due to air pollution, environmental damage, congestion, and global warming.” Wind farms built in alfalfa and corn farms across the world would receive none of these subsidies, subsidies which amount to well over four times the price to implement wide-scaled wind power, as discussed above.
+
+*Bib*: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
 *Figure 1*: On assignment at the REDD+ site in Borneo. Notice my companion (above me).
 <img src="images/redd_blog.png?raw=true"/> 
