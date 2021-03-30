@@ -5,7 +5,7 @@
 
 ---
 
-### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/blogs/psr_redd_blog.md)
+### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](blogs/psr_redd_blog.md)
 
 Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
