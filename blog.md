@@ -1,5 +1,5 @@
 
-#### A collection of Daniel's writings, focused on many things technology, science, and software. 
+#### A collection of my writings focused on technology, science, and my data science/software efforts. 
 
 <br>
 
