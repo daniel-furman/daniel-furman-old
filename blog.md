@@ -1,5 +1,5 @@
 
-#### A collection of my writings focused on technology, science, and my data science/software efforts. 
+A collection of my writings focused on technology, science, and data science/software. 
 
 <br>
 
