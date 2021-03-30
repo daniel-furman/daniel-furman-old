@@ -12,6 +12,9 @@ Innovative solutions to the climate crisis are everywhere, from California to In
 
 ---
 
+<img src="images/redd_blog.png?raw=true"/> 
+
+
 In a globalized and interconnected society, can we implement sustainable practices that responsively preserve our natural environment? While important to many, a lack of buy-in to sustainability solutions may be our largest barrier to mitigating climate change.
  
 In fact, we already possess the technology and policies to solve the climate crisis. A peer-reviewed think tank of scientists and policy-makers, Drawdown, published predictions for a multitude of sustainability initiatives by first assessing an aggressive global conversion to renewables, via well-planned power grids. In this scenario, conversion to onshore wind energy imparts the most impactful mitigation, returning $6.17 trillion in profit with a reduction of 84.6 gigatons of greenhouse gas emissions by 2050 (over 300,000 turbines today produce around 4 percent of electricity globally). Ongoing price reductions could make it the least expensive type of electricity in a decade. For reference, the global footprint from fossil fuels was only 9.79 gigatons in 2014.
