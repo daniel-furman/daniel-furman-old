@@ -1,16 +1,14 @@
 ## Will the 21st century see the restoration and rewilding of our forests?: A context for conservation and sustainability
 
----
-
-Fall 2018
-
-Author: Daniel Furman
-
-Published in Penn Sustainability Review Blog, Fall 2018 (now deprecated website)
+Innovative solutions to the climate crisis are everywhere, from California to Indonesia, and economics are increasingly driving their implementation. In a topic that invokes helplessness, progress on sustainability initiatives make me hopeful.
 
 ---
 
-*Overview*: Innovative solutions to the climate crisis are everywhere, from California to Indonesia, and economics are increasingly driving their implementation. In a topic that invokes helplessness, progress on sustainability initiatives make me hopeful.
+*Date*: Fall 2018
+
+*Author*: Daniel Furman
+
+*Published*: Penn Sustainability Review Blog, Oct 2018 (in the group's now deprecated website)
 
 ---
 
