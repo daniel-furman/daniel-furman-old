@@ -1,13 +1,13 @@
 
-A collection of writings loosely focused on technology and science. 
+#### A collection of Daniel's writings, focused on many things technology, science, and software. 
 
 <br>
 
 ---
 
-### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/psr_redd_blog.pdf)
+### [Will the 21 centurys see the restoration and rewilding of our forests?: a context for conservation and sustainability](daniel-furman.github.io/blogs/psr_redd_blog.md)
 
-Fall 2018 - Blogging / The Environment / REDD+ Investments / Wildlife Works Inc.
+Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
