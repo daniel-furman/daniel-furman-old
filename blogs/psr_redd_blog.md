@@ -12,9 +12,6 @@ Innovative solutions to the climate crisis are everywhere, from California to In
 
 ---
 
-<img src="images/redd_blog.png?raw=true"/> 
-
-
 In a globalized and interconnected society, can we implement sustainable practices that responsively preserve our natural environment? While important to many, a lack of buy-in to sustainability solutions may be our largest barrier to mitigating climate change.
  
 In fact, we already possess the technology and policies to solve the climate crisis. A peer-reviewed think tank of scientists and policy-makers, Drawdown, published predictions for a multitude of sustainability initiatives by first assessing an aggressive global conversion to renewables, via well-planned power grids. In this scenario, conversion to onshore wind energy imparts the most impactful mitigation, returning $6.17 trillion in profit with a reduction of 84.6 gigatons of greenhouse gas emissions by 2050 (over 300,000 turbines today produce around 4 percent of electricity globally). Ongoing price reductions could make it the least expensive type of electricity in a decade. For reference, the global footprint from fossil fuels was only 9.79 gigatons in 2014.
@@ -24,3 +21,6 @@ Sustainable land use could impart a similar magnitude of environmental impact in
 Wildlife Works places an emphasis on the upliftment of marginalized communities in developing nations. More often than not, these types of remote populations are owned by the resource-extraction industry, responsible for degrading our forests beyond the capacity to restore. The project I worked on was also aimed to conserve particular flora and fauna in the area, such as the East Bornean orangutan (see top left of picture). Other endangered species included six extremely vulnerable IUCN-designated mammalian species, four species of hornbill and three other large birds, and 295 species endemic trees in the project accounting area alone.  
  
 Meanwhile, the International Monetary Fund estimated that the fossil fuel industry received $5.3 trillion in government subsidies in 2015 alone. These subsidies included indirect and direct “health costs due to air pollution, environmental damage, congestion, and global warming.” Wind farms built in alfalfa and corn farms across the world would receive none of these subsidies, subsidies which amount to well over four times the price to implement wide-scaled wind power, as discussed above.
+
+*Figure 1*: On assignment at the REDD+ site in Borneo. Notice my companion (above me).
+<img src="images/redd_blog.png?raw=true"/> 
