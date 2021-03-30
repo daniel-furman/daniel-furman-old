@@ -22,4 +22,5 @@ Using our laboratory data and rate equations from the material science engineeri
 
 *Figure 1:* The experimental set-up of our rig, which we designed and machined this summer. 
 
+<img src="images/rig.png?raw=true"/> 
 
