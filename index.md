@@ -8,7 +8,7 @@ Short bios of my previous research projects.
 
 ### <ins> Mojave Species Conservation via Geospatial ML </ins>
 
-*Overview:* Geospatial ML / Harvey Mudd DS REU '19
+*Overview:*	Pioneered the application of geospatial machine learning frameworks for species conservation in the SW United States. Built highly predictive species distribution models (neural networks, BRTs, soft voters) through the design of Python and R programs for ensembled modeling, random sampling, and geo-statistics. 
 
 *Research Question:* How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
@@ -34,11 +34,11 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
-*Overview:* Experimental Geophysics / UPenn Senior Thesis
+*Overview:*	Spearheaded a three-year project with the experimental geophysics group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
 
 *Research Question:* How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
 
-*Outline:* Three-year experimental geophysics project with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant
+*Outline:* Experimental geophysics research on ice sheet rheology with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant
 
 *Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding
 
