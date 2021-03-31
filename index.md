@@ -10,7 +10,7 @@ Short bios of my previous research projects.
 
 *Overview:* Geospatial ML / Harvey Mudd DS REU '19
 
-*Research Question:* How may climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
+*Research Question:* How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
 *Outline:* Ecological modeling project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
 
