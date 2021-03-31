@@ -12,7 +12,7 @@ Short bios of my previous research projects.
 
 *Research Question:* How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
-*Outline:* Ecological modeling project funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
+*Outline:* Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19
 
 *Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models
 
@@ -34,11 +34,11 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
-*Overview:*	Spearheaded a three-year project with the experimental geophysics group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
+*Overview:*	Spearheaded a three-year project with Penn's Experimental Geophysics Group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
 
 *Research Question:* How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
 
-*Outline:* Experimental geophysics research on ice sheet rheology with Prof. David Goldsby and the University of Pennsylvania's Ice Physics Lab, funded by UPenn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and Hayden Scholars Grant
+*Outline:* A collaboration with Prof. David Goldsby and the Ice Physics Lab, funded by Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant
 
 *Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding
 
