@@ -4,9 +4,7 @@ Innovative solutions to the climate crisis are everywhere, from California to In
 
 ---
 
-*Date*: Fall 2018
-
-*Author*: Daniel Furman
+Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 *Published*: Penn Sustainability Review Blog, Oct 2018 (in the group's now deprecated website)
 
@@ -24,6 +22,6 @@ Meanwhile, the International Monetary Fund estimated that the fossil fuel indust
 
 *Bib*: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
-*Figure 1*: On assignment at the REDD+ site in Borneo. Notice my companion (above me).
+*Figure 1*: On assignment at the REDD+ site in Borneo. Notice my swinging companion (above).
 
 <img src="images/redd_blog.png?raw=true"/> 
