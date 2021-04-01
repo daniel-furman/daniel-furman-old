@@ -1,4 +1,4 @@
-## Experimental Ice Compaction
+<img src="images/rig.png?raw=true" width="50" height="50"> | ## Experimental Ice Compaction
 
 End of summer write-up for Penn's Center for Undergraduate Research & Fellowships. 
 
