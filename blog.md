@@ -10,7 +10,7 @@ A collection of my writings focused on technology, science, and data science/sof
 
 ### [Will the 21 centurys see the restoration and rewilding of our forests?](blogs/psr_redd_blog.md)
 
-A context for conservation and sustainability through my experiences as feasibility strategy intern for Wildlife Works Inc. 
+Oct 2018. A discussion about the many contexts for conservation and ecosystem management, focuses on my experience as feasibility strategy intern for Wildlife Works Inc. 
 
 ---
 
@@ -18,7 +18,7 @@ A context for conservation and sustainability through my experiences as feasibil
 
 ### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](blogs/exp_ice_blog.md)
  
-Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end of my 2018 summer research grants.
+Aug 2018. A grant write-up on ice sheet physics for Penn's Center for Undergraduate Research & Fellowships, published at the end of my 2018 summer research.
 
 ---
 
