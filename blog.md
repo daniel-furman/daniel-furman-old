@@ -6,7 +6,7 @@ A collection of my writings focused on technology, science, and data science/sof
 
 ---
 
-#### <ins>Sustainability<\ins>
+#### <ins> Sustainability </ins>
 
 ### [Will the 21 centurys see the restoration and rewilding of our forests?](blogs/psr_redd_blog.md)
 
