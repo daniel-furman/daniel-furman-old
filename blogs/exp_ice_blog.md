@@ -1,6 +1,6 @@
 ## Experimental Ice Compaction
 
-<img src="images/rig.png?raw=true" width="50" height="50"> | End of summer research grant write-up for Penn's Center for Undergraduate Research & Fellowships. 
+Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end of my 2018 summer research grants. 
 
 ---
 
