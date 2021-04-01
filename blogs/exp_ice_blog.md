@@ -4,9 +4,7 @@ End of summer write-up for Penn's Center for Undergraduate Research & Fellowship
 
 ---
 
-*Date*: Summer 2018
-
-*Author*: Daniel Furman and Prof. David Goldsby
+Summer 2018 - Scientific Research / Experimental Geophysics / Penn Ice Physics Lab
 
 *Published*: Penn Undergraduate Sustainability Action Grant ([link to write-up](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction))
 
