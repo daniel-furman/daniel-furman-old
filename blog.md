@@ -1,6 +1,6 @@
 ## Daniel's Notes
 
-A collection of my writings focused on technology, science, and data science/software/AI. 
+A collection of my writings on technology, science, and data science/software/AI. 
 
 <br>
 
