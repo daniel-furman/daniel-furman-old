@@ -1,12 +1,10 @@
 ## Will the 21st century see the restoration and rewilding of our forests?: A context for conservation and sustainability
 
-Triple bottom line economics is an exciting framework for investments. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, examining the progress on sustainability initiatives makes me more hopeful for the future.
+Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
-
-*Published*: Penn Sustainability Review Blog, Oct 2018 (in the group's now deprecated website)
+Triple bottom line economics is an exciting framework for investments. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, examining the progress on sustainability initiatives makes me more hopeful for the future.
 
 ---
 
