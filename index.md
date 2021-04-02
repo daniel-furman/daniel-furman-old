@@ -6,7 +6,7 @@ Short bios of my previous research projects.
 
 ---
 
-### <ins> SW Species Conservation with Geospatial Machine Learning </ins>
+### <ins>Biodiversity Conservation via Geospatial Machine Learning </ins>
 
 *Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.*
 
@@ -30,7 +30,7 @@ Short bios of my previous research projects.
 
 ---
 
-### <ins>The Material Science of Ice Densificaiton</ins>
+### <ins>The Material Science of Ice Sheet Densification</ins>
 
 *Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby.*
 
