@@ -1,4 +1,4 @@
-## Experimental Ice Compaction Research Write-Up
+## Experimental Ice Compaction Research Description
 
 Summer 2018 - Scientific Research / Experimental Geophysics / Penn Ice Physics Lab
 
