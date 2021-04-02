@@ -2,9 +2,9 @@
 
 ---
 
-A challenge-driven learner passionate about data science, software development, and computer vision studying Information Management and Systems at UC Berkeley ('23).
+A challenge-driven learner passionate about Data Science, Software Development, and Computer Vision studying Information Management and Systems at UC Berkeley (MS '23).
 
-I studied environmental science and mathematics at the University of Pennsylvania (May '20) earning honors and research distinctions as well as graduating Magna Cum Laude.
+I studied Environmental Science and Mathematics at the University of Pennsylvania (May '20) earning honors and research distinctions as well as graduating Magna Cum Laude.
 
 Ethos: “More data beats better models, better data beats more data, and eighty percent of the outcomes result from twenty percent of the inputs.” 
 
