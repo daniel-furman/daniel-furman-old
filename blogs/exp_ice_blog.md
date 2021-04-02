@@ -16,7 +16,7 @@ Layers of firn both at any given site and between different sites exhibit co-var
 
 Using our laboratory data and rate equations from the material science engineering literature, we can now work on constructing constitutive equations for ice densification. These forthcoming models are aimed to fine tune scientist's understanding of ice sheet and glacier rheology. Applying myself in experimental geophysics, a field I have always been fascinated by, this summer was an educational and rewarding experience. I expanded both my technical skills and developed a foundation of experimental thinking, while adding an uniquely applied space within my education here at Penn.
 
-*Figure 1:* The experimental set-up of our rig, which we designed and machined this summer. 
+**Fig 1** The experimental set-up of our rig, which we designed and machined this summer. 
 
 <img src="images/rig.png?raw=true"/> 
 
