@@ -4,7 +4,7 @@ Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-Triple bottom line economics is an exciting framework for environmentally regenerative investments, such as REDD+ carbon credit projects. Can these work at a fast pace and wide scale? 
+Triple bottom line economics is the framework for conservation investments such as REDD+ carbon credit projects. Here, I detail my takeaways from a summer internship with Wildlife Works Inc., where I had the opportunity to work on REDD+ feasibility. 
 
 ---
 
@@ -16,7 +16,9 @@ Wildlife Works places an emphasis on the upliftment of marginalized communities 
  
 More generally, we already possess the technology and policies to solve the climate crisis. A peer-reviewed think tank of scientists and policy-makers, Drawdown, published predictions for a multitude of sustainability initiatives by first assessing an aggressive global conversion to renewables, via well-planned power grids. In this scenario, conversion to onshore wind energy imparts the most impactful mitigation, returning $6.17 trillion in profit with a reduction of 84.6 gigatons of greenhouse gas emissions by 2050 (over 300,000 turbines today produce around 4 percent of electricity globally). Ongoing price reductions could make it the least expensive type of electricity in a decade. For reference, the global footprint from fossil fuels was only 9.79 gigatons in 2014.
  
-The International Monetary Fund estimated that the fossil fuel industry received $5.3 trillion in government subsidies in 2015 alone. These subsidies included indirect and direct “health costs due to air pollution, environmental damage, congestion, and global warming.” Wind farms built in alfalfa and corn farms across the world would receive none of these subsidies, subsidies which amount to well over four times the price to implement wide-scaled wind power, as discussed above.
+The International Monetary Fund estimated that the fossil fuel industry received $5.3 trillion in government subsidies in 2015 alone. These subsidies included indirect and direct “health costs due to air pollution, environmental damage, congestion, and global warming.” Wind farms built in alfalfa and corn farms across the world would receive none of these subsidies, subsidies which amount to well over four times the price to implement wide-scaled wind power. 
+
+REDD+ and other conservation investments become all the more important against these contexts. 
 
 **Bib**: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
