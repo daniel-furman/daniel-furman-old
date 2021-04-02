@@ -6,13 +6,13 @@ Short bios of my previous research projects.
 
 ---
 
-### <ins> Mojave Species Conservation via Geospatial ML </ins>
+### <ins> SW Species Conservation with Geospatial Machine Learning </ins>
+
+*Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.*
 
 **Overview:** Pioneered the application of geospatial machine learning frameworks for species conservation in the SW United States. Built highly predictive species distribution models (neural networks, BRTs, soft voters) through the design of Python and R programs for ensembled modeling, random sampling, and geo-statistics. 
 
 **Research Question:** How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
-
-**Outline:** Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
 
 <img src="images/range.png?raw=true"/> 
 
@@ -32,11 +32,11 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
+*Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby.*
+
 **Overview:** Spearheaded a three-year project with Penn's Experimental Geophysics Group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
 
-**Research Question:** How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
-
-**Outline:** Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby. 
+**Research Question:** How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification? 
 
 <img src="images/exp-interv.png?raw=true"/>
 
