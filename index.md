@@ -8,11 +8,11 @@ Short bios of my previous research projects.
 
 ### <ins> Mojave Species Conservation via Geospatial ML </ins>
 
-*Overview:* Pioneered the application of geospatial machine learning frameworks for species conservation in the SW United States. Built highly predictive species distribution models (neural networks, BRTs, soft voters) through the design of Python and R programs for ensembled modeling, random sampling, and geo-statistics. 
+**Overview:** Pioneered the application of geospatial machine learning frameworks for species conservation in the SW United States. Built highly predictive species distribution models (neural networks, BRTs, soft voters) through the design of Python and R programs for ensembled modeling, random sampling, and geo-statistics. 
 
-*Research Question:* How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
+**Research Question:** How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
-*Outline:* Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+**Outline:** Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
 
 <img src="images/range.png?raw=true"/> 
 
@@ -22,7 +22,7 @@ Short bios of my previous research projects.
 
 **Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) with the ROC plot for the above species distribution.
 
-*Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
+**Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
@@ -32,11 +32,11 @@ Short bios of my previous research projects.
 
 ### <ins>The Material Science of Ice Densificaiton</ins>
 
-*Overview:* Spearheaded a three-year project with Penn's Experimental Geophysics Group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
+**Overview:** Spearheaded a three-year project with Penn's Experimental Geophysics Group, focusing on problems in the near-surface of ice sheets. Led experiments probing for microstructure sensitive flow in ice compaction. Developed and analyzed constitutive rheological models from our lab results for applications to natural settings. 
 
-*Research Question:* How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
+**Research Question:** How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
 
-*Outline:* Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby. 
+**Outline:** Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby. 
 
 <img src="images/exp-interv.png?raw=true"/>
 
@@ -48,7 +48,7 @@ Short bios of my previous research projects.
 
 **Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Ice sheet densification model at 233 K (a common temperature at the interior of terrestrial ice sheets) constructed from the semi-empirical rate model above. The equation was parametrized by our lab results and included the novel power law relationship between rate and grain size uncovered by our study. 
 
-*Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
+**Full Title:** The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1eDXEeZ1x04-mp7oUI9cQi2PNBXxXor5x?usp=sharing">Written Outputs</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>
