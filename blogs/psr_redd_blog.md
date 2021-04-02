@@ -4,7 +4,7 @@ Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-Triple bottom line economics is an exciting framework for environmentally regenerative investments, the general category that REDD+ projects falls within. Can this work at pace? At scale?
+Triple bottom line economics is an exciting framework for environmentally regenerative investments, such as REDD+ carbon credit projects. Can these work at a fast pace and wide scale? 
 
 ---
 
