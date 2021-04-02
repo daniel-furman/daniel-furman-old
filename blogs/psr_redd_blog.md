@@ -4,7 +4,7 @@ Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-Triple bottom line economics is an exciting framework for investments. Can this work at pace? At scale? In a topic that can bring a feeling helplessness, examining the progress on sustainability initiatives makes me more hopeful for the future.
+Triple bottom line economics is an exciting framework for environmentally regenerative investments, the general category that REDD+ projects falls within. Can this work at pace? At scale?
 
 ---
 
@@ -18,8 +18,8 @@ More generally, we already possess the technology and policies to solve the clim
  
 The International Monetary Fund estimated that the fossil fuel industry received $5.3 trillion in government subsidies in 2015 alone. These subsidies included indirect and direct “health costs due to air pollution, environmental damage, congestion, and global warming.” Wind farms built in alfalfa and corn farms across the world would receive none of these subsidies, subsidies which amount to well over four times the price to implement wide-scaled wind power, as discussed above.
 
-*Bib*: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
+**Bib**: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
-*Figure 1*: On assignment at the REDD+ site in Borneo. Notice my swinging companion (above).
+**Fig 1:** On assignment at the REDD+ site in Borneo. Notice my swinging companion (above).
 
 <img src="images/redd_blog.png?raw=true"/> 
