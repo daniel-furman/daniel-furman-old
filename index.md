@@ -12,23 +12,21 @@ Short bios of my previous research projects.
 
 *Research Question:* How will climate change shift geographic overlaps between Desert Night Lizards and their Joshua tree habitats?
 
-*Outline:* Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph and Harvey Mudd College. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+*Outline:* Funded through the NSF Award #1757952, a collaboration with Prof. Stephen Adolph. Conference Proceedings: SICB Meeting '21, SCCUR Meeting '19.
+
+<img src="images/range.png?raw=true"/> 
+
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geo-classification example for the Desert Night Lizard species distribution, with a highly predictive soft voting ensemble of BRTs and neural networks. 
+
+<img src="images/auc.png?raw=true"/>
+
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) with the ROC plot for the above species distribution.
 
 *Full Title:* Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
-
-<img src="images/range.png?raw=true"/> 
-
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geographic prediction of the near-present Desert Night Lizard species distribution, with best subset model selection among soft voters composed of up to 6 BRT classifiers. 
-
-<img src="images/auc.png?raw=true"/>
-
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Blended Model Performance</a></ins>**. Validation performance (30% held-out) for the Desert Night Lizard's near-current species distribution model (ie. corresponding to the above geospatial prediction).  
-
-<br>
 
 ---
 
@@ -38,7 +36,17 @@ Short bios of my previous research projects.
 
 *Research Question:* How does an ice sheet's grain size, strain state, and microstructure influence the rate of near-surface densification?
 
-*Outline:* A collaboration with Prof. David Goldsby, funded by Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant.
+*Outline:* Funded through Penn's Rose Undergraduate Research Award, CURF Sustainability Action Grant, and the EES Hayden Scholars Grant, a collaboration with Prof. David Goldsby. 
+
+<img src="images/exp-interv.png?raw=true"/>
+
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent the final results of our lab compaction tests, steady-state flow rates during ice densification. Our samples were synthesized across an order of magnitude of grain size (i.e., the individual ice particles), from 5 to 550 micrometers in radius. 
+
+<img src="images/map.png?raw=true"/>
+
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
+
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Ice sheet densification model at 233 K (a common temperature at the interior of terrestrial ice sheets) constructed from the semi-empirical rate model above. The equation was parametrized by our lab results and included the novel power law relationship between rate and grain size uncovered by our study. 
 
 *Full Title:* The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
@@ -46,13 +54,3 @@ Short bios of my previous research projects.
 * <a target="_blank" rel="noopener noreferrer" href="https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction">CURF Grant Write-Up</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research">Code Repository</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ice-densification-research/blob/master/Firn_notebook.ipynb">Online Notebook</a>
-
-<img src="images/exp-interv.png?raw=true"/>
-
-**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data are laboratory steady-state creep rates during ice densification, the final results of three-years of compaction tests. Notice the key feature of our experimental methodology: our samples were synthesized to uniform average grain size (i.e., the individual ice particles) from 5 to 550 micrometers in radius. 
-
-<img src="images/map.png?raw=true"/>
-
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
-
-**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Rate modeling for ice densification at 233 K, a common temperature at the interior of terrestrial ice sheets. We developped the semi-empirical rate model (above) used to construct the map, with our novel power law relationship between rate and grain size. 
