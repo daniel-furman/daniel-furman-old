@@ -1,10 +1,10 @@
-## Experimental Ice Compaction
+## Experimental Ice Compaction Research Write-Up
 
 Summer 2018 - Scientific Research / Experimental Geophysics / Penn Ice Physics Lab
 
 ---
 
-Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end of my 2018 summer research grants. *Published*: Penn Undergraduate Sustainability Action Grant ([link to write-up](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction))
+Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end of my 2018 summer research grants. *Published*: Penn Undergraduate Sustainability Action Grant ([link to write-up](https://www.curf.upenn.edu/project/furman-daniel-experimental-ice-compaction)).
 
 ---
 
