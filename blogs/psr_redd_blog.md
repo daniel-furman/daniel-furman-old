@@ -1,16 +1,24 @@
-## Will the 21st century see the restoration and rewilding of our forests?: A context for conservation and sustainability
+## Will the 21st century see the restoration and rewilding of our forests? A context for conservation and sustainability:
 
 Fall 2018 - Write-Up / The Environment / REDD+ Investments / Wildlife Works Inc.
 
 ---
 
-Triple bottom line economics is the framework for conservation investments such as REDD+ carbon credit projects. Here, I detail my takeaways from a summer internship with Wildlife Works Inc., where I had the opportunity to work on REDD+ feasibility. 
+I detail my takeaways from a summer internship with Wildlife Works Inc., where I had the opportunity to work on REDD+ feasibility. 
 
 ---
 
-In a globalized and interconnected society, can we implement sustainable practices that responsively preserve our natural environment? While important to many, a lack of buy-in to sustainability solutions may be our largest barrier to mitigating climate change. Nevertheless, innovative solutions to the climate crisis are everywhere.
+<img src="images/redd_blog.png?raw=true"/ width="400" height="400"> 
 
-Sustainable land use could impart a similar magnitude of environmental impact in the tropics, saving 60 gigatons of greenhouse gas emissions by 2050. For example, REDD+ projects (Reforestation Emissions from Deforestation and Forest Degradation) aim to convert unsustainable forest management, such as the  development of palm oil plantations, to socially and economically viable conservation initiatives. In the summer of 2017, I was fortunate to work in this space, helping assess the feasibility for a REDD+ project in East Kalimantan, Indonesia as a field intern for the Wildlife Works Company.
+**Fig 1:** On assignment at the REDD+ site. Notice my companion (above).
+
+---
+
+While important to many, a lack of buy-in to sustainability solutions may be our largest barrier to mitigating climate change. Nevertheless, innovative solutions to the climate crisis are seemingly everywhere, amidst the chaos of the 2020's. Triple bottom line economics, for example, is an exciting framework for conservation investments - such as REDD+ carbon credit projects promoting sustainability and reforestation.
+
+Sustainable land use could impart a large order of magnitude for greenhouse gas reduction, particularly in the tropics. According to <in>Project Drawdown</ins> sustainable land use in the tropics saves 60 gigatons of greenhouse gas emissions by 2050.
+
+REDD+ projects (Reforestation Emissions from Deforestation and Forest Degradation) are a flavor of sustainable land use initiatives, aiming to convert unsustainable forest management, such as the  development of palm oil plantations, to socially and economically viable conservation initiatives. In the summer of 2017, I was fortunate to work in this space, helping assess the feasibility for a REDD+ project in East Kalimantan, Indonesia as a field intern for the Wildlife Works Company.
 
 Wildlife Works places an emphasis on the upliftment of marginalized communities in developing nations. More often than not, these types of remote populations are owned by the resource-extraction industry, responsible for degrading our forests beyond the capacity to restore. The project I worked on was also aimed to conserve particular flora and fauna in the area, such as the East Bornean orangutan (see top left of picture). Other endangered species included six extremely vulnerable IUCN-designated mammalian species, four species of hornbill and three other large birds, and 295 species endemic trees in the project accounting area alone.  
  
@@ -22,6 +30,5 @@ REDD+ and other conservation investments become all the more important against t
 
 **Bib**: Paul Hawken. Drawdown, The Most Comprehensive Plan ever proposed to reverse global warming. New York, NY: Penguin Books. 2017
 
-**Fig 1:** On assignment at the REDD+ site in Borneo. Notice my swinging companion (above).
+---
 
-<img src="images/redd_blog.png?raw=true"/> 
