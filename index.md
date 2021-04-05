@@ -16,11 +16,11 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geo-classification for the Desert Night Lizard, utilizing a soft voting ensemble of BRTs and neural networks with varying hidden layer architecture. 
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species distribution geo-classification </a></ins>** for the Desert Night Lizard's baseline climate distribution, utilizing a soft voting ensemble of BRTs and neural networks with varying hidden layer architecture. 
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model Performance</a></ins>**. Metrics for the Night Lizard distribution model. 10-fold cross validation ROC (left) and a boxplot of hold out (30%) F1 scores for dozens of modeling runs (right), revealing the variability in modeling performance across different data partitions, random seeds, and background point samples. 
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model performance</a></ins>** metrics for the Night Lizard distribution model. 10-fold cross validation ROC (left) and a boxplot of hold out (30%) F1 scores for dozens of modeling runs (right), revealing the variability in modeling performance across different data partitions, random seeds, and background point samples. 
 
 **Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
@@ -40,13 +40,13 @@ Short bios of my previous research projects.
 
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>**. The data points represent the final results of our lab compaction tests, steady-state flow rates during ice densification. Our samples were synthesized across an order of magnitude of grain size (i.e., the individual ice particles), from 5 to 550 micrometers in radius. 
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow rate</a></ins>** data, the final results of our lab compaction tests. Each data point represents a steady-state "creep" rate during ice densification, across applied stresses and grain sizes. 
 
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>**. Ice sheet densification model at 233 K (a common temperature at the interior of terrestrial ice sheets) constructed from the semi-empirical rate model above. The equation was parametrized by our lab results and included the novel power law relationship between rate and grain size uncovered by our study. 
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification mechanism map</a></ins>** model for ice sheet densification at 233 K (a common temperature at the interior of terrestrial ice sheets), constructed from the semi-empirical equation above. The model is parametrized by our lab results and includes the power law relationship between rate and grain size uncovered by our study. 
 
 **Full Title:** The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
