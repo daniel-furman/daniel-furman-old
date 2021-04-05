@@ -10,7 +10,7 @@ Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end 
 
 **Fig 1:** The experimental compaction rig, which we designed and machined this summer (left) and examples of two different grain size samples (right). 
 
-<img src="images/rig.png?raw=true" width="150" height="94"> 
+<img src="images/rig.png?raw=true" width="300" height="188"> 
 
 This summer I investigated the physical properties of partially dense ice, or firn, in the near surface regions of ice caps and glaciers. We explored the influence of physical variables present in nature by compacting samples of synthetically fabricated firn in a controlled lab environment. To date we have primarily studied grain size influences and to a lesser extent impurity content influence. Measuring the permeability evolution of gas flow through the sample is the main additional feature yet to be incorporated in our experiment.
 
