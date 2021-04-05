@@ -16,9 +16,9 @@ Oct 2018. A discussion about the many contexts for conservation and ecosystem ma
 
 #### <ins> Scientific Research </ins>
 
-### [Experimental Ice Compaction: Project Summary for the Center for Undergraduate Research & Fellowships](blogs/exp_ice_blog.md)
+### [Experimental Ice Compaction: Project Summary for Penn's Center for Undergraduate Research & Fellowships](blogs/exp_ice_blog.md)
  
-Aug 2018. A grant write-up on ice sheet physics for Penn's Center for Undergraduate Research & Fellowships, published at the end of my 2018 summer research in the Ice Physics Lab with Prof. David Goldsby and team. 
+**Aug 2018.** A general-audience write-up for my CURF grants, detailing my work on ice sheet physics for Penn's Center for Undergraduate Research & Fellowships. (Published at the end of my 2018 summer research in the Ice Physics Lab with Prof. David Goldsby and team.) 
 
 ---
 
