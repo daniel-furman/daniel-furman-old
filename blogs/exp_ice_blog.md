@@ -10,7 +10,7 @@ Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end 
 
 <img src="images/rig.png?raw=true" width="400" height="250"> 
 
-**Fig 1:** The experimental compaction rig, which we designed and machined this summer (left). Photos of two samples, one with a visale coarse grain size (right). 
+**Fig 1:** The experimental compaction rig, which we designed and machined this summer (left). Photos of two samples with different grain sizes (right). 
 
 
 ---
