@@ -16,11 +16,11 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geo-classification example for the Night Lizard's distribution, utilizing a soft voting ensemble of BRTs and neural networks. 
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Species Distribution Models</a></ins>**. Geo-classification for the Desert Night Lizard, utilizing a soft voting ensemble of BRTs and neural networks with varying hidden layer architecture. 
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model Performance</a></ins>**. Metrics for the Night Lizard distribution model. An example of 10-fold cross validation ROC (left) and a boxplot of hold out (30%) F1 scores across dozens of modeling runs (right).
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model Performance</a></ins>**. Metrics for the Night Lizard distribution model. 10-fold cross validation ROC (left) and a boxplot of hold out (30%) F1 scores for dozens of modeling runs (right), revealing the variability in modeling performance across different data partitions, random seeds, and background point samples. 
 
 **Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
