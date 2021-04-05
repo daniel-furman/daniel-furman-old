@@ -8,7 +8,7 @@ I detail my takeaways from a summer internship with Wildlife Works Inc., where I
 
 ---
 
-<img src="images/redd_blog.png?raw=true"/ width="400" height="400"> 
+<img src="images/redd_blog.png?raw=true" width="400" height="400"> 
 
 **Fig 1:** On assignment at the REDD+ site. Notice my companion (above).
 
