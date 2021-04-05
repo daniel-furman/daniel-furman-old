@@ -8,6 +8,10 @@ Write-up for Penn's Center for Undergraduate Research & Fellowships, at the end 
 
 ---
 
+**Fig 1:** The experimental compaction rig, which we designed and machined this summer (left) and examples of two different grain size samples (right). 
+
+<img src="images/rig.png?raw=true"/ width=7 height=4.21> 
+
 This summer I investigated the physical properties of partially dense ice, or firn, in the near surface regions of ice caps and glaciers. We explored the influence of physical variables present in nature by compacting samples of synthetically fabricated firn in a controlled lab environment. To date we have primarily studied grain size influences and to a lesser extent impurity content influence. Measuring the permeability evolution of gas flow through the sample is the main additional feature yet to be incorporated in our experiment.
 
 The two processes of focus in our experiments are densification and the closure of air channels and pockets between ice grains. A key problem in establishing a history of the CO2 record in deep ice cores is the unknown lag between the (older) age of the firn at the bubble close off depth and the (younger) age of the gas trapped within the bubbles.  Establishing accurate dates for the climate record in ice cores thus requires fundamental knowledge of the densification of porous ice. Such knowledge is also critical for converting satellite measurements of changes in the surface heights of ice sheets and glaciers into changes in ice mass to assess the response of these ice bodies to a warming climate.
@@ -16,7 +20,4 @@ Layers of firn both at any given site and between different sites exhibit co-var
 
 Using our laboratory data and rate equations from the material science engineering literature, we can now work on constructing constitutive equations for ice densification. These forthcoming models are aimed to fine tune scientist's understanding of ice sheet and glacier rheology. Applying myself in experimental geophysics, a field I have always been fascinated by, this summer was an educational and rewarding experience. I expanded both my technical skills and developed a foundation of experimental thinking, while adding an uniquely applied space within my education here at Penn.
 
-**Fig 1:** The experimental compaction rig, which we designed and machined this summer (left) and examples of two different grain size samples (right). 
-
-<img src="images/rig.png?raw=true"/> 
 
