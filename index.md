@@ -16,7 +16,7 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Distribution Geo-classification.</a></ins>** The Desert Night Lizard's baseline climate distribution (1970-2000), predicted by a soft voting ensemble of BRTs and neural networks of varying hidden layer architecture. 
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Geo-classification.</a></ins>** The Desert Night Lizard's baseline climate distribution model, correlating records of species presences (grey data points) to explanatory climate features. This final ensembled prediction correctly classifies all ~1200 species presence records (including ~300 validation points).
 
 <img src="images/auc.png?raw=true"/>
 
