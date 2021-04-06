@@ -18,6 +18,8 @@ A collection of my writings on technology, science, and data science/software/AI
 
 ### [Experimental Ice Compaction: Project Summary for Penn's Center for Undergraduate Research & Fellowships](blogs/exp_ice_blog.md)
  
+<img src="images/rig.png?raw=true" width="200" height="125">
+ 
 **Aug 2018.** A general-audience write-up for my CURF grants, detailing my work on ice sheet physics for Penn's Center for Undergraduate Research & Fellowships. (Published at the end of my 2018 summer research in the Ice Physics Lab with Prof. David Goldsby and team.) 
 
 ---
