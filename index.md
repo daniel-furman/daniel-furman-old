@@ -16,11 +16,11 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probalistic prediction of species' presence likelihood for the Desert Night Lizard, correctly classifying all ~1200 presence records (grey data points), including ~300 held out validation records.
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probalistic prediction of habitat suitability (likelihood of species' presence) for the Desert Night Lizard. The model correctly classifies all ~1200 presence records upon conversion to binary presence/absence, including the ~300 points held out for validation.
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model Performance Metrics</a></ins>.** 10-fold cross validation ROC (left) and a boxplot of hold out (30%) F1 scores from dozens of modeling runs (right) for the Night Lizard distribution model, revealing the variability in modeling across different data partitions, random seeds, and background point samples. 
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Model Performance Metrics</a></ins>.** 10-fold cross validation ROC (left) and hold out (30%) F1 scores from dozens of modeling runs (right) for the Desert Night Lizard distribution model (above), across different data partitions, random seeds, and geospatial data samples. 
 
 **Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
