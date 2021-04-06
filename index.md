@@ -16,7 +16,7 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Geo-classification.</a></ins>** The Desert Night Lizard's baseline climate distribution model, correlating records of species presences (grey data points) to explanatory climate features. This final ensembled prediction correctly classifies all ~1200 species presence records (including ~300 validation points).
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probalistic prediction of species' presence likelihood for the Desert Night Lizard, correctly classifying all ~1200 presence records (grey data points), including ~300 held out validation records.
 
 <img src="images/auc.png?raw=true"/>
 
