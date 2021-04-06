@@ -10,7 +10,7 @@ A collection of my writings on technology, science, and data science/software/AI
 
 ### [Will the 21 centurys see the restoration and rewilding of our forests?](blogs/psr_redd_blog.md)
 
-Oct 2018. A discussion about the many contexts for conservation and ecosystem management, focuses on my experience as feasibility strategy intern for Wildlife Works Inc. 
+**Oct 2018.** A discussion about the many contexts for conservation and ecosystem management, focuses on my experience as feasibility strategy intern for Wildlife Works Inc. 
 
 ---
 
