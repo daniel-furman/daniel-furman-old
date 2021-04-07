@@ -6,6 +6,4 @@
 
 [lwMCMC](https://pypi.org/project/lwMCMC/) (v0.1). [Docs](https://github.com/daniel-furman/lwMCMC). A numpy-driven implementation of Markov Chain Monte Carlo, an object-oriented parameter sampling class for Bayesian inference. 
 
-PySDMs (to come)
-
-SurfCrowds(to come)
+[PySDMs](https://github.com/daniel-furman/PySDMs) (v0.1). [Docs](https://github.com/daniel-furman/PySDMs). An object-oriented class for Species Distribution Modeling with boosted tree algorithms, neural nets, and BSS soft voting blends. 
