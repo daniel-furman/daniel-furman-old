@@ -16,16 +16,16 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probabilistic prediction of habitat suitability (likelihood of species presence) for the Desert Night Lizard. The model correctly classifies all ~1200 presence records in binary presence/absence form, including the ~300 points held out for validation.
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/PySDMs">Night Lizard Geo-classification.</a></ins>** A probabilistic prediction of habitat suitability (likelihood of species presence) for the Desert Night Lizard. The model correctly classifies all ~1200 presence records in binary presence/absence form, including the ~300 points held out for validation.
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Night Lizard Model Metrics</a></ins>.** 10-fold cross validation ROC (left) and 30% hold-out validation F1 scores from dozens of runs over differing data partitions, random seeds, and background samples (right). 
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/PySDMs">Night Lizard Model Metrics</a></ins>.** 10-fold cross validation ROC (left) and 30% hold-out validation F1 scores from dozens of runs over differing data partitions, random seeds, and background samples (right). 
 
 **Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a><br>
-* <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Code Repository</a><br>
+* <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/PySDMs">Code Repository</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
 
 ---
