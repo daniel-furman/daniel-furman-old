@@ -46,7 +46,7 @@ Short bios of my previous research projects.
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Ice Sheet Densification Model</a></ins>.** Mechanism map model for ice sheet densification at 233 K (a common temperature at the interior of terrestrial ice sheets), constructed from the semi-empirical equation above. The equations's semi-empirical parameters were determined from our lab results. The power law relationship between the dens. rate and grain size is the only functional customization from the original equation (Maeno 1987). 
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Ice Sheet Densification Model</a></ins>.** Mechanism map model for ice sheet densification at 233 K (a common temperature at the interior of terrestrial ice sheets), constructed from the semi-empirical equation above. Values for the equation's several semi-empirical parameters were directly determined from our experiments, as well as the functional form of the power law relationship between dens. rate and grain size. 
 
 **Full Title:** The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
