@@ -40,13 +40,13 @@ Short bios of my previous research projects.
 
 <img src="images/exp-interv.png?raw=true"/>
 
-**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>.** The final results of our lab compaction tests. The data points represent our experimental "steady-state creep" rates for ice densification at a given applied stress and grain size. 
+**Fig 3. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/exp_confidence_intervals.py">Flow Rates</a></ins>.** The final results of laboratory compaction tests (2017-2020). The data points represent our experimental "steady-state creep" rates for ice densification at a given applied stress and grain size. 
 
 <img src="images/map.png?raw=true"/>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\frac{\dot{\rho}}{\rho_{ice}} (dens. rate) = \frac{2{\A}(1-{\rho}r)}{(1-(1-{\rho}r)^{1/n})^{n}} (\frac{2\sigma}{n})^{n} exp(\frac{-Q}{RT})d^{-p}"> </p>
 
-**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>.** Our model for ice sheet densification at 233 K (a common temperature at the interior of terrestrial ice sheets), constructed from the semi-empirical equation above. The model parameters are constrained by our lab results, with the power law relationship between rate and grain size uncovered by our study. 
+**Fig 4. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ice-densification-research/blob/master/mechanism_maps.py">Densification Mechanism Map</a></ins>.** Mechanism map model for ice sheet densification at 233 K (a common temperature at the interior of terrestrial ice sheets), constructed from the semi-empirical equation above. The model parameters are constrained by our lab results. The power law relationship between rate and grain size is the main customization (beyond our differing params) from the original equation (Maeno 1987). 
 
 **Full Title:** The Rheological Behavior of Firn: Experimental Observations of Dislocation Creep via Grain Boundary Sliding.
 
