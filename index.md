@@ -20,7 +20,7 @@ Short bios of my previous research projects.
 
 <img src="images/auc.png?raw=true"/>
 
-**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Night Lizard Model Metrics</a></ins>.** 10-fold cross validation ROC (left) and hold out (30%) F1 scores from dozens of modeling runs across different data partitions, random seeds, and random background samples (right). 
+**Fig 2. <ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/ensemble-climate-projections">Night Lizard Model Metrics</a></ins>.** 10-fold cross validation ROC (left) and 30% hold-out validation F1 scores from dozens of runs over differing partitions, random seeds, and background samples (right). 
 
 **Full Title:** Assessing Climate Change Impacts on Xantusia vigilis lizards and their Joshua tree habitats with Ensemble Species Distribution Models.
 
