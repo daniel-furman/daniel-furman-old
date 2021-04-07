@@ -26,7 +26,7 @@ Short bios of my previous research projects.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/15nZUMuGLiINuhSuP6DJ6hg27YKZxeC9A?usp=sharing">Written Outputs</a><br>
 * <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/PySDMs">Code Repository</a><br>
-* <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Online Notebook</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/PySDMs/blob/main/examples/night_lizards/PySDMs_example1.ipynb">Online Notebook</a>
 
 ---
 
