@@ -16,7 +16,7 @@ Short bios of my previous research projects.
 
 <img src="images/range.png?raw=true"/> 
 
-**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probalistic prediction of habitat suitability (likelihood of species' presence) for the Desert Night Lizard. The model correctly classifies all ~1200 presence records upon conversion to binary presence/absence, including the ~300 points held out for validation.
+**Fig 1. <ins><a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/daniel-furman/ensemble-climate-projections/blob/main/Comparing_MLs.ipynb">Night Lizard Geo-classification.</a></ins>** A probalistic prediction of habitat suitability (likelihood of species presence) for the Desert Night Lizard. The model correctly classifies all ~1200 presence records in binary presence/absence form, including the ~300 points held out for validation.
 
 <img src="images/auc.png?raw=true"/>
 
