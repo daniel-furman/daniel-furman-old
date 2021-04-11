@@ -1,4 +1,4 @@
-baseURL = "https://daniel-furman.github.io/portfolio-hugo-dev/"
+baseURL = "https://daniel-furman.github.io/"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 googleAnalytics = "" # add your tracking id
